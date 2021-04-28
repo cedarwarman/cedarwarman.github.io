@@ -5,6 +5,7 @@
 layout: page
 title: Cedar Warman
 subtitle: This is the website of Cedar Warman.
+hide_footer: true
 ---
 
 # Welcome
