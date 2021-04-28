@@ -9,5 +9,5 @@ hide_footer: true
 hide_hero: true
 ---
 
-# Welcome
+# Hello
 Soon I'll add some more content to this website.
