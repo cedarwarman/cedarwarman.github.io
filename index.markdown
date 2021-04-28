@@ -3,5 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Docs for My Project
+title: Cedar Warman
+subtitle: This is the website of Cedar Warman.
 ---
+
+# Welcome
+Soon I'll add some more content to this website.
