@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Cedar Warman
-subtitle: This is the website of Cedar Warman.
+#title: Cedar Warman
+#subtitle: This is the website of Cedar Warman.
 #hide_footer: true
 #hide_hero: true
 hero_image: /img/darlingtonia.jpg
 ---
 
-# Hello
+# Cedar Warman's website
 Soon I'll add some more content to this website.
