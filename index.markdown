@@ -9,8 +9,8 @@ title: " "
 #hide_hero: true
 hero_image: /img/darlingtonia.jpg
 hero_text: false
+hero_height: is-large
 ---
-<section class="hero is-large  is-bold is-primary">
 
 # Cedar Warman
 Soon I'll add some more content to this website.
