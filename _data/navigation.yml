@@ -1,5 +1,7 @@
-- name: Papers
-  link: /papers/
+- name: Research
+  link: /research/
+- name: Publications
+  link: /pupblications/
 - name: CV
   link: /cv/
 - name: Sensors
