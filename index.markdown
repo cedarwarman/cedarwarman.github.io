@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title:    
+title: " " 
 #subtitle: This is the website of Cedar Warman.
 #hide_footer: true
 #hide_hero: true
