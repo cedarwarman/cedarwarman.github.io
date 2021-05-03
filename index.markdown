@@ -9,7 +9,7 @@ title: " "
 #hide_hero: true
 hero_image: /img/darlingtonia.jpg
 hero_text: false
-hero_height: is-large
+hero_height: is-fullheight
 ---
 
 # Cedar Warman's website
