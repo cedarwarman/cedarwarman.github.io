@@ -1,2 +1,8 @@
+<style>
+a {
+  color: #ff82d9;
+}
+</style>
+
 - name: This website is open source and availible on Github
   link: https://github.com/cedarwarman/cedarwarman.github.io
