@@ -13,4 +13,4 @@ hero_height: is-fullheight
 ---
 
 # Cedar Warman's website
-Cedar Warman is an NSF postdoctoral fellow at the University of Arizona. He studies plant sexual reproduction in the lab of Dr. Ravishankar Palanivelu. Cedar is interested in high-throughput phenotyping, computer vision, and data science. He works to combine computational methods with basic plant biology to answer fundamental questions about how plant reproduction is affected by envronmental stress.
+Cedar Warman is an NSF postdoctoral fellow at the University of Arizona. He studies plant sexual reproduction in the lab of Dr. Ravishankar Palanivelu. Cedar is interested in high-throughput phenotyping, computational biology, and data science. He works to combine computational methods with basic plant biology to answer fundamental questions about how plant reproduction is affected by envronmental stress.
