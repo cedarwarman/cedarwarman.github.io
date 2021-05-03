@@ -8,6 +8,7 @@ title:
 #hide_footer: true
 #hide_hero: true
 hero_image: /img/darlingtonia.jpg
+hero_text: false
 ---
 
 # Cedar Warman
