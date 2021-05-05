@@ -7,13 +7,3 @@ permalink: /research/
 ---
 
 This is where a description of my research will go.
-
-.title.is-2 {
-    color: black;
-}
-.title {
-    color: black;
-}
-.is-2 {
-    color: black;
-}
