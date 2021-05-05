@@ -1,10 +1,10 @@
 ---
 ---
-.title.is-2 {
-	color: #fc0362;
-}
-
 
 $primary: #ff82d9;
 // Import Main CSS file from theme
 @import "main";
+
+.title.is-2 {
+	color: #fc0362;
+}
