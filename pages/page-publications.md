@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: page
-hero_image: /img/flowers.jpg
+hero_image: /img/claytonia.jpg
 permalink: /publications/
 ---
 # Publications
