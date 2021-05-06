@@ -1,9 +1,8 @@
 ---
-title: Cedar Warman's CV
+title: " "
 layout: page
 hero_image: /img/leaves.jpg
 permalink: /cv/
-hero_title: false
 ---
 # CV
 

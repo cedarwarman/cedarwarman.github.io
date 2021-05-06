@@ -1,9 +1,8 @@
 ---
-title: Publications
+title: " "
 layout: page
 hero_image: /img/flowers.jpg
 permalink: /publications/
-hero_text: false
 ---
 # Publications
 
