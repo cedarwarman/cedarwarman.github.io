@@ -11,12 +11,12 @@ permalink: /publications/
         <div class="row" style="padding-top: 60px; margin-top: -60px;" id="publication pubmed ID">
         <div style="font-size: 120% !important; width: 100%">Publication title goes here</div><div>The authors go here</div>
         </div>
-        <div class="row" style="padding-top: 20px; margin-top: - 20px;">
-        	<div class="col-sm-6">
-        		<img class = "img-fluid" src = "/img/warman_2020_plos_genetics.jpg" alt = "Plot of transmission rates of mutant alleles" style="max-height: 200px;">
+        <div class="columns">
+        	<div class="column">
+        		<img class = "img-fluid" src = "/img/warman_2020_plos_genetics.jpg" alt = "Plot of transmission rates of mutant alleles" style="max-height: 300px;">
         	</div>
-        	<ul class="col-sm-6">
-        			<strong>Access the paper</strong>
+        	<div class="column">
+        		<strong>Access the paper</strong>
 
                                 <li>DOI: <a href="https://doi.org/10.1371/journal.pgen.1008462" alt = "DOI link: 10.1371/journal.pgen.1008462"> 10.1371/journal.pgen.1008462
 </a></li>
@@ -28,8 +28,7 @@ permalink: /publications/
                                 
                                 <li><a href="Fowler Lab @ Oregon State University" alt="Fowler Lab">https://bpp.oregonstate.edu/users/john-fowler-jr</a></li>
 
-        	</ul>
+        	</div>
         </div>
         <br>
 </div>
-
