@@ -3,7 +3,7 @@ title: " "
 layout: page
 hero_image: /img/claytonia.jpg
 permalink: /publications/
----
+---  
 <h1>Publications</h1>
 <div class="container-fluid">
 
@@ -21,33 +21,13 @@ permalink: /publications/
                                 <li>DOI: <a href="https://doi.org/10.1371/journal.pgen.1008462" alt = "DOI link: 10.1371/journal.pgen.1008462"> 10.1371/journal.pgen.1008462
 </a></li>
         			<li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32236090/" alt = "pubmed link: 32236090"> 32236090</a></li>
-                                <li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}">
 
-        			<!-- PDF -->
-        			<li><a href="https://cedarwarman.github.io/pdf/warman_2020_plos_genetics.pdf" alt = "PDF"> Full Text PDF</a></li>
+                                <li><a href="https://cedarwarman.github.io/pdf/warman_2020_plos_genetics.pdf" alt = "PDF"> Full Text PDF</a></li>
 
-        			<!-- Datasets - optional -->
-        			{% if publication.data %}
-        			<li>Online Dataset{% if publication.data.size > 1 %}s{% endif %}:
-        				{% if publication.data.size > 1 %}
-        				<ul>
-        					{% for dataset in publication.data %}
-        					<li><a href="http://dx.doi.org/{{dataset}}" alt = "sbgrid data repository">doi:{{dataset}}</a></li>
-        					{% endfor %}
-        				</ul>
-        				{% else %}
-        				<a href="http://dx.doi.org/{{publication.data}}" alt = "sbgrid data repository">doi:{{publication.data}}</a>
-        				{% endif %}
-        			</li>
-        			{% endif %}
+                                <strong>Additional links</strong>:
+                                
+                                <li><a href="Fowler Lab @ Oregon State University" alt="Fowler Lab">https://bpp.oregonstate.edu/users/john-fowler-jr</a></li>
 
-        			<!--additional links - optional-->
-                                {% if publication.links %}
-                                <strong>Additional Link{% if publication.links.size > 1 %}s{% endif %}</strong>:
-                                        {% for link in publication.links %}
-                                        <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
-                                        {% endfor %}
-                                {% endif %}
         	</ul>
         </div>
         <br>
