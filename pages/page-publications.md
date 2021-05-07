@@ -8,7 +8,7 @@ permalink: /publications/
 <div class="container-fluid">
 
         <hr>
-        <div class="block" style="font-size: 120% !important; width: 100%">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements</div>
+        <div class="block" style="font-size: 120% !important; width: 100%">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements<i>PLOS Genetics</i>. 2020.</div>
 
         <div class="block"><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
 
@@ -27,7 +27,9 @@ permalink: /publications/
 
                                 <strong>Additional links</strong>:
 
-                                <li><a href="Fowler Lab @ Oregon State University" alt="Fowler Lab">https://bpp.oregonstate.edu/users/john-fowler-jr</a></li>
+                                <li><a href="https://bpp.oregonstate.edu/users/john-fowler-jr" alt="Fowler Lab">Fowler Lab @ Oregon State University</a></li>
+                                <li><a href="https://slotkinlab.github.io/" alt="Slotkin Lab">Slotkin Lab @ The Danforth Center</a></li>
+                                <li><a href="https://dpb.carnegiescience.edu/labs/evans-lab" alt="Evans Lab">Evans Lab @ Carnegie Institution for Science</a></li>
 
             </div>
         </div>
