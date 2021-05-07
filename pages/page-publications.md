@@ -4,8 +4,8 @@ layout: page
 hero_image: /img/claytonia.jpg
 permalink: /publications/
 ---
-<h1>Publications</h1>
-<hr>
+<h1 style="width: 90%; margin-left: auto; margin-right: auto;">Publications</h1>
+<hr style="width: 90%; margin-left: auto; margin-right: auto;">
 <div class="block" style="font-size: 120% !important; width: 80%; margin-left: auto; margin-right: auto;">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
 
 <div class="block" style="width: 80%; margin-left: auto; margin-right: auto;"><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
