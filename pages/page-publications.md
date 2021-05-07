@@ -5,8 +5,6 @@ hero_image: /img/claytonia.jpg
 permalink: /publications/
 ---
 <h1>Publications</h1>
-<div class="container-fluid">
-
         <hr>
         <div class="block" style="font-size: 120% !important; width: 80%; margin-left: auto; margin-right: auto;">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
 
@@ -35,5 +33,4 @@ permalink: /publications/
             </div>
         </div>
         <br>
-</div>
 
