@@ -8,9 +8,9 @@ permalink: /publications/
 <div class="container-fluid">
 
         <hr>
-        <div class="block" style="font-size: 120% !important; width: 100%">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
+        <div class="block" style="font-size: 120% !important; width: 80%">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
 
-        <div class="block"><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
+        <div class="block" style="width: 80%"><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
 
         <div class="columns">
             <div class="column">
