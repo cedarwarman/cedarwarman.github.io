@@ -18,25 +18,13 @@ permalink: /publications/
         	<ul class="col-sm-6">
         			<strong>Access the paper</strong>
 
+                                <li>DOI: <a href="https://doi.org/10.1371/journal.pgen.1008462" alt = "DOI link: 10.1371/journal.pgen.1008462"> 10.1371/journal.pgen.1008462
+</a></li>
         			<li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32236090/" alt = "pubmed link: 32236090"> 32236090</a></li>
-<!--
-        			<!--Biorxiv - optional -->
-        			{% if publication.biorxiv %}
-        			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
-        			{% endif %}
-
-        			<!--Arxiv - optional -->
-        			{% if publication.arxiv %}
-        			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" alt = "arxiv preprint link: {{publication.arxiv}}"> {{publication.arxiv}}</a></li>
-        			{% endif %}
-
-        			<!--Chemrxiv - optional -->
-        			{% if publication.chemrxiv %}
-        			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" alt = "chemrxiv preprint link: {{publication.chemrxiv}}"> {{publication.chemrxiv}}</a></li>
-        			{% endif %}
+                                <li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}">
 
         			<!-- PDF -->
-        			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+        			<li><a href="https://cedarwarman.github.io/pdf/warman_2020_plos_genetics.pdf" alt = "PDF"> Full Text PDF</a></li>
 
         			<!-- Datasets - optional -->
         			{% if publication.data %}
@@ -60,7 +48,6 @@ permalink: /publications/
                                         <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
                                         {% endfor %}
                                 {% endif %}
--->
         	</ul>
         </div>
         <br>
