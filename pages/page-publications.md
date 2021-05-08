@@ -13,7 +13,7 @@ permalink: /publications/
 
 <div class="columns">
 	<div class="column">
-		<img class = "img-fluid" src = "/img/warman_2020_plos_genetics.jpg" alt = "Plot of transmission rates of mutant alleles" style="max-height: 300px;">
+		<img src="/img/warman_2020_plos_genetics.jpg" alt="Plot of transmission rates of mutant alleles" style="max-height: 300px;">
 	</div>
 	<div class="column">
 		<strong>Access the paper</strong>
