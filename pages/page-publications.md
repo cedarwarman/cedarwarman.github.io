@@ -5,13 +5,13 @@ hero_image: /img/claytonia.jpg
 permalink: /publications/
 ---
 
-<h1 class="styled_h1">Publications</h1>
-<hr class="styled_hr">
-<div class="block" style="font-size: 120% !important;">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
+<h1 class="centered-with-margin">Publications</h1>
+<hr class="centered-with-margin">
+<div class="block centered-with-margin" style="font-size: 120% !important;">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
 
-<div class="block" ><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
+<div class="block centered-with-margin" ><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
 
-<div class="columns" >
+<div class="columns centered-with-margin" >
     <div class="column">
         <img class = "img-fluid" src = "/img/warman_2020_plos_genetics.jpg" alt = "Plot of transmission rates of mutant alleles" style="max-height: 300px;">
     </div>
