@@ -13,7 +13,7 @@ permalink: /publications/
 
 <div class="columns is-centered">
 	<div class="column is-narrow">
-		<img src="/img/warman_2020_plos_genetics.jpg" alt="Plot of transmission rates of mutant alleles" style="max-height: 300px;">
+		<img src="/img/warman_2020_plos_genetics.jpg" alt="Plot of transmission rates of mutant alleles" style="max-height: 300px; max-width: 500px;">
 	</div>
 	<div class="column is-narrow">
 		<strong>Access the paper</strong>
@@ -37,7 +37,7 @@ permalink: /publications/
 
 <div class="columns is-centered">
     <div class="column is-narrow">
-        <img src="/img/warman_2020_nature_plants.jpg" alt="Microscope images of biolistic pollen transformation" style="max-height: 300px;">
+        <img src="/img/warman_2020_nature_plants.jpg" alt="Microscope images of biolistic pollen transformation" style="max-height: 300px; max-width: 500px">
     </div>
     <div class="column is-narrow">
         <strong>Access the paper</strong>
