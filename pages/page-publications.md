@@ -29,3 +29,25 @@ permalink: /publications/
 	</div>
 </div>
 <br>
+<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop pb-3" style="font-size: 120% !important;">No evidence for transient transformation via pollen magnetofection in several monocot species<i> Nature Plants</i>. 2020.</div>
+
+<div class="container is-max-desktop pb-4">Zuzana Vejlupkova, <strong>Cedar Warman</strong>, Rita Sharma, Henrik Vibe Scheller, Jenny C. Mortimer & John E. Fowler</div>
+
+
+<div class="columns is-centered">
+    <div class="column is-narrow">
+        <img src="/img/warman_2020_nature_plants.jpg" alt="Microscope images of biolistic pollen transformation" style="max-height: 300px;">
+    </div>
+    <div class="column is-narrow">
+        <strong>Access the paper</strong>
+        <li>DOI: <a href="https://doi.org/10.1038/s41477-020-00798-6" alt = "DOI link: 10.1038/s41477-020-00798-6"> 10.1038/s41477-020-00798-6</a></li>
+        <li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33139861/" alt = "pubmed link: 33139861"> 33139861</a></li>
+        <li><a href="https://cedarwarman.github.io/pdf/warman_2020_nature_plants.pdf" alt = "PDF"> Full Text PDF</a></li>
+        <br>
+        <strong>Additional links</strong>:
+        <li><a href="https://bpp.oregonstate.edu/users/john-fowler-jr" alt="Fowler Lab">Fowler Lab @ Oregon State University</a></li>
+        <li><a href="https://mortimerlab.org/" alt="Mortimer Lab">Mortimer Lab @ Lawrence Berkeley National Laboratory</a></li>
+    </div>
+</div>
+<br>
