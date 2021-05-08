@@ -15,6 +15,18 @@ $primary: #ff82d9;
 	margin-right: auto;
 }
 
+.styled_h1 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.styled_hr {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 // Import Main CSS file from theme
 @import "main";
 
