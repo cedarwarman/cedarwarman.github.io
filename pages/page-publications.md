@@ -13,9 +13,6 @@ permalink: /publications/
 
 <div class="columns">
 	<div class="column">
-		Test text
-	</div>
-	<div class="column">
 		<img src="/img/warman_2020_plos_genetics.jpg" alt="Plot of transmission rates of mutant alleles" style="max-height: 300px;">
 	</div>
 	<div class="column">
