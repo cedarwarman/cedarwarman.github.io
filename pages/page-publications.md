@@ -36,10 +36,11 @@ permalink: /publications/
 
 
 <div class="columns is-centered">
-    <div class="column is-narrow">
+	<div class="column"></div>
+    <div class="column">
         <img src="/img/warman_2020_nature_plants.jpg" alt="Microscope images of biolistic pollen transformation" style="max-height: 300px; max-width: 500px">
     </div>
-    <div class="column is-narrow">
+    <div class="column">
         <strong>Access the paper</strong>
         <li>DOI: <a href="https://doi.org/10.1038/s41477-020-00798-6" alt = "DOI link: 10.1038/s41477-020-00798-6"> 10.1038/s41477-020-00798-6</a></li>
         <li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33139861/" alt = "pubmed link: 33139861"> 33139861</a></li>
@@ -51,5 +52,6 @@ permalink: /publications/
         <li><a href="https://blog.pubpeer.com/publications/DA5062D071C5813708B4F9B511F9E5" alt="Pubpeer link">An interesting PubPeer thread</a></li>
         <li><a href="https://twitter.com/aeharkess/status/1023763311308021760" alt="Twitter thread">A relevant Twitter thread</a></li>
     </div>
+	<div class="column"></div>
 </div>
 <br>
