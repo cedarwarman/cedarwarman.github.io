@@ -15,7 +15,7 @@ permalink: /publications/
 	<div class="column is-narrow">
 		<img src="/img/warman_2020_plos_genetics.jpg" alt="Plot of transmission rates of mutant alleles" style="max-height: 300px;">
 	</div>
-	<div class="column">
+	<div class="column is-narrow">
 		<strong>Access the paper</strong>
 		<li>DOI: <a href="https://doi.org/10.1371/journal.pgen.1008462" alt = "DOI link: 10.1371/journal.pgen.1008462"> 10.1371/journal.pgen.1008462</a></li>
 		<li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32236090/" alt = "pubmed link: 32236090"> 32236090</a></li>
