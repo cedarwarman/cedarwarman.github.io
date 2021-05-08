@@ -12,7 +12,7 @@ permalink: /publications/
 <div class="container is-max-desktop pb-4">Lian Zhou, Zuzana Vejlupkova, <strong>Cedar Warmani</strong>, John E. Fowler</div>
 <div class="columns is-centered">
     <div class="column is-7">
-        <img src="/img/zhou_2021_frontiers.jpg" alt="ZmLARP6c1 pollen phenotypes">
+        <img src="/img/zhou_2021_frontiers.jpg" alt="ZmLARP6c1 pollen phenotypes" style="max-height=200;">
     </div>
     <div class="column is-5">
         <strong>Access the paper</strong>
