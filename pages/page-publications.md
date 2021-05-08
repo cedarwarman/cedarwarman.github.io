@@ -9,7 +9,7 @@ permalink: /publications/
 <div class="container is-max-desktop"><hr>
 
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">A Maize Male Gametophyte-Specific Gene Encodes ZmLARP6c1, a Potential RNA-Binding Protein Required for Competitive Pollen Tube Growth<i> Frontiers in Plant Science</i>. 2021.</div>
-<div class="container is-max-desktop pb-4">Lian Zhou, Zuzana Vejlupkova, <strong>Cedar Warmani</strong>, John E. Fowler</div>
+<div class="container is-max-desktop pb-4">Lian Zhou, Zuzana Vejlupkova, <strong>Cedar Warman</strong>, John E. Fowler</div>
 <div class="columns is-centered">
     <div class="column is-7">
         <img src="/img/zhou_2021_frontiers.jpg" alt="ZmLARP6c1 pollen phenotypes" style="max-height=200;">
