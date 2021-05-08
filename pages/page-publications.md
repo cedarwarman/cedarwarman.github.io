@@ -12,10 +12,10 @@ permalink: /publications/
 <div class="block centered-with-margin" ><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
 
 <div class="columns centered-with-margin" >
-    <div class="column">
+    <div class="column centered-with-margin">
         <img class = "img-fluid" src = "/img/warman_2020_plos_genetics.jpg" alt = "Plot of transmission rates of mutant alleles" style="max-height: 300px;">
     </div>
-    <div class="column">
+    <div class="column centered-with-margin">
         <strong>Access the paper</strong>
         <li>DOI: <a href="https://doi.org/10.1371/journal.pgen.1008462" alt = "DOI link: 10.1371/journal.pgen.1008462"> 10.1371/journal.pgen.1008462</a></li>
         <li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32236090/" alt = "pubmed link: 32236090"> 32236090</a></li>
