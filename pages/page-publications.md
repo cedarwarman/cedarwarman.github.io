@@ -37,10 +37,10 @@ permalink: /publications/
 
 <div class="columns is-centered">
 	<div class="column"></div>
-    <div class="column is-one-third">
+    <div class="column is-half">
         <img src="/img/warman_2020_nature_plants.jpg" alt="Microscope images of biolistic pollen transformation">
     </div>
-    <div class="column is-one-third">
+    <div class="column is-half">
         <strong>Access the paper</strong>
         <li>DOI: <a href="https://doi.org/10.1038/s41477-020-00798-6" alt = "DOI link: 10.1038/s41477-020-00798-6"> 10.1038/s41477-020-00798-6</a></li>
         <li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33139861/" alt = "pubmed link: 33139861"> 33139861</a></li>
