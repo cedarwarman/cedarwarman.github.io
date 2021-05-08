@@ -36,7 +36,6 @@ permalink: /publications/
 
 
 <div class="columns is-centered">
-	<div class="column"></div>
     <div class="column is-7">
         <img src="/img/warman_2020_nature_plants.jpg" alt="Microscope images of biolistic pollen transformation">
     </div>
@@ -52,6 +51,5 @@ permalink: /publications/
         <li><a href="https://blog.pubpeer.com/publications/DA5062D071C5813708B4F9B511F9E5" alt="Pubpeer link">An interesting PubPeer thread</a></li>
         <li><a href="https://twitter.com/aeharkess/status/1023763311308021760" alt="Twitter thread">A relevant Twitter thread</a></li>
     </div>
-	<div class="column"></div>
 </div>
 <br>
