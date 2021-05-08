@@ -6,10 +6,10 @@ permalink: /publications/
 ---
 
 <div class="container is-max-desktop"><h1>Publications</h1></div>
-<hr class="centered-with-margin">
-<div class="block centered-with-margin" style="font-size: 120% !important;">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
+<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop" style="font-size: 120% !important;">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
 
-<div class="block centered-with-margin"><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
+<div class="container is-max-desktop"><strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler</div>
 
 <div class="columns is-centered">
 	<div class="column is-narrow">
