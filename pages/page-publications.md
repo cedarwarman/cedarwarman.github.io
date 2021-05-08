@@ -4,19 +4,6 @@ layout: page
 hero_image: /img/claytonia.jpg
 permalink: /publications/
 ---
-<style>
-block {
-    width: 80%;
-    margin-left: auto; 
-    margin-right: auto;
-}
-columns {
-    width: 80%;
-    margin-left: auto; 
-    margin-right: auto;
-}
-</style>
-
 
 <h1>Publications</h1>
 <hr>
