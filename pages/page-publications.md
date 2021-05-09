@@ -23,7 +23,7 @@ permalink: /publications/
         <strong>Additional links</strong>:
         <li><a href="https://bpp.oregonstate.edu/users/john-fowler-jr" alt="Fowler Lab">Fowler Lab @ Oregon State University</a></li>
         <li><a href="https://cgrb.oregonstate.edu/" alt="CGRB">Center for Genome Research and Biocomputing @ Oregon State University</a></li>
-        <li><a href="https://github.com/fowler-lab-osu/EarVision" alt="EarVision">EarVision</a></li>
+        <li><a href="https://github.com/fowler-lab-osu/EarVision" alt="EarVision">EarVision object detection model (Tensorflow)</a></li>
         <li><a href="https://datacommons.cyverse.org/browse/iplant/home/shared/EarVision_maize_kernel_image_data/training_and_validation_images" alt="Training data">300 maize ear images with kernels annotated by bounding boxes (Pascal VOC format)</a></li>
 	
     </div>
