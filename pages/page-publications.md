@@ -9,7 +9,7 @@ permalink: /publications/
 <div class="container is-max-desktop"><hr>
 
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.</div>
-<div class="container is-max-desktop pb-4"><strong>Cedar Warman</strong> Christopher M. Sullivan, Justin Preece, Michaela E. Buchanan, Zuzana Vejlupkova, Pankaj Jaiswal, John E. Fowler</div>
+<div class="container is-max-desktop pb-4"><strong>Cedar Warman</strong>, Christopher M. Sullivan, Justin Preece, Michaela E. Buchanan, Zuzana Vejlupkova, Pankaj Jaiswal, John E. Fowler</div>
 <div class="columns is-centered">
     <div class="column is-7">
         <img src="/img/warman_2021_plant_journal.jpg" alt="Maize ear scanner">
