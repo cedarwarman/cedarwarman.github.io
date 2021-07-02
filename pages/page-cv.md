@@ -11,4 +11,14 @@ permalink: /cv/
 	<hr>
 </div>
 
-
+<div class="columns is-centered is-mobile">
+	<div class="column is-2">
+	<strong>Education</strong>	
+	</div>
+	<div class="column is-8">
+	<strong>Ph.D., Botany & Plant Pathology,</strong><i>Oregon State University,</i> Corvallis, OR, USA
+	</div>
+	<div class="column is-2">
+	2015-2020	
+	</div>
+</div>
