@@ -6,7 +6,9 @@ permalink: /cv/
 ---
 
 <div class="container is-max-desktop has-text-centered">
-	<h3>Curriculum vitae</h3>
-	<h1>Cedar Dale Warman</h1>
+	<p class="subtitle is-4">Curriculum vitae</p>
+	<p class="title is-1">Cedar Dale Warman</p>
 	<hr>
 </div>
+
+
