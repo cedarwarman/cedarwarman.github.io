@@ -11,7 +11,7 @@ permalink: /cv/
 	<hr>
 </div>
 
-<div class="columns is-centered is-mobile">
+<div class="columns is-max-desktop is-centered is-mobile">
 	<div class="column is-2">
 	<strong>Education</strong>	
 	</div>
