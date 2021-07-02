@@ -6,8 +6,8 @@ permalink: /cv/
 ---
 
 <div class="container is-max-desktop has-text-centered">
-	<p class="subtitle is-4">Curriculum vitae</p>
 	<p class="title is-2">Cedar Dale Warman</p>
+	<p class="subtitle is-4">Curriculum vitae</p>
 	<hr>
 </div>
 
@@ -17,7 +17,7 @@ permalink: /cv/
 		<strong>Education</strong>	
 		</div>
 		<div class="column is-8">
-		<strong>Ph.D., Botany & Plant Pathology,</strong><i>Oregon State University,</i> Corvallis, OR, USA
+		<strong>Ph.D., Botany & Plant Pathology,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 		</div>
 		<div class="column is-2">
 		2015-2020	
