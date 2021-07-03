@@ -91,7 +91,7 @@ permalink: /cv/
 			</div>
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
-				<strong>Vegetation monitoring technician,</strong><i> Eastern Nevada Landscape Coalition,</i> Elko, NV, USA
+				<strong>Lead monitoring technician,</strong><i> Eastern Nevada Landscape Coalition,</i> Elko, NV, USA
 				</div>
 				<div class="column is-3 has-text-right">
 				2012 – 2013	
