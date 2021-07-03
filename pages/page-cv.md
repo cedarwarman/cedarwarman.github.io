@@ -21,7 +21,7 @@ permalink: /cv/
 			</div>
 		</div>
 		<div class="column is-10">
-			<div class="columns is-mobile is-centered pb-0">
+			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
