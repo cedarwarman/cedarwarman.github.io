@@ -5,7 +5,7 @@ hero_image: /img/tulips.jpg
 permalink: /cv/
 ---
 <style type="text/css">
-    .section-text{ color: pink; 
+    .section-text{ color: rgb(255, 131, 214); 
 				   font-weight: bold;
 				   font-size: 150%; }
 </style>
