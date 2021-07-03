@@ -21,7 +21,7 @@ permalink: /cv/
 			</div>
 		</div>
 		<div class="column is-10">
-			<div class="columns is-mobile is-centered">
+			<div class="columns is-mobile is-centered pb-1">
 				<div class="column is-9 has-text-left">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
@@ -37,18 +37,6 @@ permalink: /cv/
 				2005-2010	
 				</div>
 			</div>
-		</div>
-	</div>
-
-
-	<div class="columns is-centered">
-		<div class="column is-2 has-text-left">
-		</div>
-		<div class="column is-8 has-text-left">
-		<strong>B.S., Biology, English,</strong><i> Boston College,</i> Chestnut Hill, MA, USA
-		</div>
-		<div class="column is-2 has-text-right">
-		2010-2015	
 		</div>
 	</div>
 </div>
