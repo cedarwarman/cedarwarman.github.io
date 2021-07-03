@@ -26,7 +26,7 @@ permalink: /cv/
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
 				<div class="column is-3 has-text-right">
-				2015-2020	
+				2015 – 2020	
 				</div>
 			</div>
 			<div class="columns is-mobile is-centered">
@@ -34,7 +34,7 @@ permalink: /cv/
 				<strong>B.S., Biology, English,</strong><i> Boston College,</i> Chestnut Hill, MA, USA
 				</div>
 				<div class="column is-3 has-text-right">
-				2005-2010	
+				2005 – 2010	
 				</div>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ permalink: /cv/
 				<strong>Postdoctoral fellow,</strong><i> University of Arizona,</i> Tucson, AZ, USA
 				</div>
 				<div class="column is-3 has-text-right">
-				2020-present	
+				2020 – present	
 				</div>
 			</div>
 			<div class="columns is-mobile is-centered">
@@ -61,7 +61,7 @@ permalink: /cv/
 				<strong>Research assistant,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
 				<div class="column is-3 has-text-right">
-				2015-2020	
+				2015 – 2020	
 				</div>
 			</div>
 		</div>
