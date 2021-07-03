@@ -12,17 +12,17 @@ permalink: /cv/
 </div>
 
 <div class="container is-max-desktop has-text-centered">
-	<div class="columns is-centered">
-		<div class="columns is-centered">
+	<div class="columns">
+		<div class="columns">
 			<div class="column is-2 has-text-left">
 			<strong>Education</strong>	
 			</div>
 		</div>
-		<div class="columns is-centered is-mobile">
-			<div class="column is-8 has-text-left">
+		<div class="columns is-mobile">
+			<div class="column is-9 has-text-left">
 			<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 			</div>
-			<div class="column is-2 has-text-right">
+			<div class="column is-3 has-text-right">
 			2015-2020	
 			</div>
 		</div>
