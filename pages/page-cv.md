@@ -17,7 +17,7 @@ permalink: /cv/
 </div>
 
 <div class="container is-max-desktop has-text-centered">
-	<div class="columns">
+	<div class="columns mb-0">
 		<div class="column is-2">	
 			<div class="columns mb-0 mt-0">
 				<div class="column has-text-left">
