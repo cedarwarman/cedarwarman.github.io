@@ -8,6 +8,7 @@ permalink: /cv/
     .section-title{ color: rgb(255, 131, 214); 
 				    font-weight: bold;
 				    font-size: 140%; }
+	.icon{ height: 1em; }
 </style>
 
 <div class="container is-max-desktop has-text-centered">
@@ -19,7 +20,7 @@ permalink: /cv/
 			University of Arizona<br>
 			Tucson, AZ, USA</p>
 			<p class="my-2">cedardalewarman [at] gmail.com</p>
-			<a href="https://twitter.com/CedarWarman"><img class="inline-block" src="/img/icons/twitter_icon.svg"></a>
+			<a href="https://twitter.com/CedarWarman"><img class="inline-block icon" src="/img/icons/twitter_icon.svg"></a>
 		</div>
 	</div>
 	<hr>
