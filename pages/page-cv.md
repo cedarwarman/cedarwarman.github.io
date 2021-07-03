@@ -18,7 +18,7 @@ permalink: /cv/
 			<strong>Education</strong>	
 			</div>
 		</div>
-		<div class="columns is-mobile">
+		<div class="columns is-mobile is-centered">
 			<div class="column is-9 has-text-left">
 			<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 			</div>
