@@ -20,7 +20,7 @@ permalink: /cv/
 			University of Arizona<br>
 			Tucson, AZ, USA</p>
 			<p class="my-2">cedardalewarman [at] gmail.com</p>
-			<a href="https://twitter.com/CedarWarman"><img class="inline-block icon" src="/img/icons/twitter_icon.svg"></a>
+			<a href="https://twitter.com/CedarWarman"><img class="inline-block icon" src="/img/icons/twitter_icon.svg"></a><a href= "https://twitter.com/CedarWarman">cedarwarman</a>
 		</div>
 	</div>
 	<hr>
