@@ -19,7 +19,7 @@ permalink: /cv/
 		<div class="column is-2">	
 			<div class="columns">
 				<div class="column has-text-left">
-				<p class="section-text"><strong>Education</strong>	
+				<p class="section-text">Education>	
 				</p>
 				</div>
 			</div>
