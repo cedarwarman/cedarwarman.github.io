@@ -7,8 +7,7 @@ permalink: /cv/
 <style type="text/css">
     .section-title{ color: rgb(255, 131, 214); 
 				    font-weight: bold;
-				    font-size: 150%;
-					vertical-align: top; }
+				    font-size: 140%; }
 </style>
 
 <div class="container is-max-desktop has-text-centered">
@@ -20,7 +19,7 @@ permalink: /cv/
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
 		<div class="column is-2">	
-			<div class="columns">
+			<div class="columns mb-0">
 				<div class="column has-text-left">
 				<p class="section-title">Education</p>
 				</div>
@@ -45,7 +44,7 @@ permalink: /cv/
 			</div>
 		</div>
 	</div>
-	<div class="columns">
+	<div class="columns mb-0">
 		<div class="column is-2">	
 			<div class="columns">
 				<div class="column has-text-left">
