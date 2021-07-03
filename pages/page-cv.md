@@ -46,7 +46,7 @@ permalink: /cv/
 	</div>
 	<div class="columns mb-0">
 		<div class="column is-2">	
-			<div class="columns">
+			<div class="columns mt-9">
 				<div class="column has-text-left">
 				<p class="section-title">Experience</p>
 				</div>
