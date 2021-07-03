@@ -61,7 +61,7 @@ permalink: /cv/
 				2020 – present	
 				</div>
 			</div>
-			<div class="columns is-mobile is-centered">
+			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Research assistant,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
@@ -69,7 +69,7 @@ permalink: /cv/
 				2015 – 2020	
 				</div>
 			</div>
-			<div class="columns is-mobile is-centered">
+			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Research technician,</strong><i> Oregon State University,</i> Hermiston, OR, USA
 				</div>
@@ -77,7 +77,7 @@ permalink: /cv/
 				2014 – 2015	
 				</div>
 			</div>
-			<div class="columns is-mobile is-centered">
+			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Vegetation monitoring technician,</strong><i> Eastern Nevada Landscape Coalition,</i> Elko, NV, USA
 				</div>
