@@ -5,6 +5,10 @@ hero_image: /img/tulips.jpg
 permalink: /cv/
 ---
 
+.section-text {
+	color: pink;
+}
+
 <div class="container is-max-desktop has-text-centered">
 	<p class="title is-2">Cedar Dale Warman</p>
 	<p class="subtitle is-4">Curriculum vitae</p>
@@ -14,9 +18,10 @@ permalink: /cv/
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
 		<div class="column is-2">	
-			<div class="columns mb-0">
+			<div class="columns">
 				<div class="column has-text-left">
-				<strong>Education</strong>	
+				<p class="section-text"><strong>Education</strong>	
+				</p>
 				</div>
 			</div>
 		</div>
@@ -41,7 +46,7 @@ permalink: /cv/
 	</div>
 	<div class="columns">
 		<div class="column is-2">	
-			<div class="columns mb-0">
+			<div class="columns">
 				<div class="column has-text-left">
 				<strong>Experience</strong>	
 				</div>
