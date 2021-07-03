@@ -4,10 +4,9 @@ layout: page
 hero_image: /img/tulips.jpg
 permalink: /cv/
 ---
-
-.section-text {
-	color: pink;
-}
+<style type="text/css">
+    .section-text{ color: pink; }
+</style>
 
 <div class="container is-max-desktop has-text-centered">
 	<p class="title is-2">Cedar Dale Warman</p>
