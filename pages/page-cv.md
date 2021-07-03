@@ -37,7 +37,9 @@ permalink: /cv/
 				</div>
 			</div>
 			<div class="columns is-mobile is-centered">
-				<div class="column is-9 has-text-left">
+				<div class="column is-1">
+				</div>
+				<div class="column is-8 has-text-left">
 				<strong>B.S., Biology, English,</strong><i> Boston College,</i> Chestnut Hill, MA, USA
 				</div>
 				<div class="column is-3 has-text-right">
