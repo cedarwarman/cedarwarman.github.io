@@ -17,7 +17,7 @@ permalink: /cv/
 </div>
 
 <div class="container is-max-desktop has-text-centered">
-	<div class="columns">
+	<div class="columns mr-2">
 		<div class="column is-2">	
 			<div class="columns mb-0">
 				<div class="column has-text-left">
@@ -27,9 +27,7 @@ permalink: /cv/
 		</div>
 		<div class="column is-10">
 			<div class="columns is-mobile is-centered mb-0">
-				<div class="column is-1">
-				</div>
-				<div class="column is-8 has-text-left">
+				<div class="column is-9 has-text-left">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
 				<div class="column is-3 has-text-right">
@@ -37,9 +35,7 @@ permalink: /cv/
 				</div>
 			</div>
 			<div class="columns is-mobile is-centered">
-				<div class="column is-1">
-				</div>
-				<div class="column is-8 has-text-left">
+				<div class="column is-9 has-text-left">
 				<strong>B.S., Biology, English,</strong><i> Boston College,</i> Chestnut Hill, MA, USA
 				</div>
 				<div class="column is-3 has-text-right">
