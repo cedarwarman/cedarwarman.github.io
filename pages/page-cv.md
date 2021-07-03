@@ -5,9 +5,10 @@ hero_image: /img/tulips.jpg
 permalink: /cv/
 ---
 <style type="text/css">
-    .section-text{ color: rgb(255, 131, 214); 
-				   font-weight: bold;
-				   font-size: 150%; }
+    .section-title{ color: rgb(255, 131, 214); 
+				    font-weight: bold;
+				    font-size: 150%;
+					vertical-align: top; }
 </style>
 
 <div class="container is-max-desktop has-text-centered">
@@ -21,7 +22,7 @@ permalink: /cv/
 		<div class="column is-2">	
 			<div class="columns">
 				<div class="column has-text-left">
-				<p class="section-text">Education</p>
+				<p class="section-title">Education</p>
 				</div>
 			</div>
 		</div>
@@ -48,7 +49,7 @@ permalink: /cv/
 		<div class="column is-2">	
 			<div class="columns">
 				<div class="column has-text-left">
-				<strong>Experience</strong>	
+				<p class="section-title">Experience</p>
 				</div>
 			</div>
 		</div>
