@@ -19,7 +19,7 @@ permalink: /cv/
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
 		<div class="column is-2">	
-			<div class="columns is-9 mb-0">
+			<div class="columns mb-0">
 				<div class="column has-text-left">
 				<p class="section-title">Education</p>
 				</div>
@@ -67,6 +67,30 @@ permalink: /cv/
 				</div>
 				<div class="column is-3 has-text-right">
 				2015 – 2020	
+				</div>
+			</div>
+			<div class="columns is-mobile is-centered">
+				<div class="column is-9 has-text-left">
+				<strong>Research technician,</strong><i> Oregon State University,</i> Hermiston, OR, USA
+				</div>
+				<div class="column is-3 has-text-right">
+				2014 – 2015	
+				</div>
+			</div>
+			<div class="columns is-mobile is-centered">
+				<div class="column is-9 has-text-left">
+				<strong>Vegetation monitoring technician,</strong><i> Eastern Nevada Landscape Coalition,</i> Elko, NV, USA
+				</div>
+				<div class="column is-3 has-text-right">
+				2012 – 2013	
+				</div>
+			</div>
+			<div class="columns is-mobile is-centered">
+				<div class="column is-9 has-text-left">
+				<strong>Research technician,</strong><i> Washington State University,</i> Mt. St. Helens, WA, USA
+				</div>
+				<div class="column is-3 has-text-right">
+				2007 – 2011	
 				</div>
 			</div>
 		</div>
