@@ -18,14 +18,14 @@ permalink: /cv/
 
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
-		<div class="column is-2">	
+		<div class="column is-3">	
 			<div class="columns mb-0">
 				<div class="column has-text-left">
 				<p class="section-title">Education</p>
 				</div>
 			</div>
 		</div>
-		<div class="column is-10">
+		<div class="column is-9">
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
@@ -45,14 +45,14 @@ permalink: /cv/
 		</div>
 	</div>
 	<div class="columns mb-0">
-		<div class="column is-2">	
+		<div class="column is-3">	
 			<div class="columns">
 				<div class="column has-text-left">
 				<p class="section-title">Experience</p>
 				</div>
 			</div>
 		</div>
-		<div class="column is-10">
+		<div class="column is-9">
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Postdoctoral fellow,</strong><i> University of Arizona,</i> Tucson, AZ, USA
