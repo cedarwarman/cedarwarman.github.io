@@ -15,10 +15,10 @@ permalink: /cv/
 		<div class="column has-text-left">
 			<p class="title is-2 mb-5">Cedar Dale Warman</p>
 			<p class="subtitle is-4 mb-0"><i>Postdoctoral fellow</i></p>
-			<p class="my-1">School of Plant Sciences<br>
+			<p class="my-2">School of Plant Sciences<br>
 			University of Arizona<br>
 			Tucson, AZ, USA</p>
-			<p class="my-1">cedardalewarman [at] gmail.com</p>
+			<p class="my-2">cedardalewarman [at] gmail.com</p>
 		</div>
 	</div>
 	<hr>
