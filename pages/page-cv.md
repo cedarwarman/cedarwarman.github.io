@@ -11,8 +11,12 @@ permalink: /cv/
 </style>
 
 <div class="container is-max-desktop has-text-centered">
-	<p class="title is-2">Cedar Dale Warman</p>
-	<p class="subtitle is-4">Curriculum vitae</p>
+	<div class="columns">
+		<div class="column has-text-left">
+			<p class="title is-2">Cedar Dale Warman</p>
+			<p class="subtitle is-4"><i>Postdoctoral fellow</i></p>
+		</div>
+	</div>
 	<hr>
 </div>
 
