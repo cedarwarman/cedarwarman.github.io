@@ -13,8 +13,11 @@ permalink: /cv/
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
 		<div class="column has-text-left">
-			<p class="title is-2 mb-3">Cedar Dale Warman</p>
+			<p class="title is-2 mb-5">Cedar Dale Warman</p>
 			<p class="subtitle is-4"><i>Postdoctoral fellow</i></p>
+			<p>School of Plant Sciences</p>
+			<p>University of Arizona</p>
+			<p>Tucson, AZ, USA</p>
 		</div>
 	</div>
 	<hr>
