@@ -13,20 +13,26 @@ permalink: /cv/
 
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
-		<div class="columns">
-			<div class="column has-text-left">
-			<strong>Education</strong>	
+		<div class="column is-2">	
+			<div class="columns">
+				<div class="column has-text-left">
+				<strong>Education</strong>	
+				</div>
 			</div>
 		</div>
-		<div class="columns is-mobile is-centered">
-			<div class="column is-9 has-text-left">
-			<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
-			</div>
-			<div class="column is-3 has-text-right">
-			2015-2020	
+		<div class="column is-10">
+			<div class="columns is-mobile is-centered">
+				<div class="column is-9 has-text-left">
+				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
+				</div>
+				<div class="column is-3 has-text-right">
+				2015-2020	
+				</div>
 			</div>
 		</div>
 	</div>
+
+
 	<div class="columns is-centered">
 		<div class="column is-2 has-text-left">
 		</div>
