@@ -25,9 +25,11 @@ permalink: /cv/
 				</div>
 			</div>
 		</div>
-		<div class="column is-9">
+		<div class="column is-10">
 			<div class="columns is-mobile is-centered mb-0">
-				<div class="column is-9 has-text-left">
+				<div class="column is-1">
+				</div>
+				<div class="column is-8 has-text-left">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
 				<div class="column is-3 has-text-right">
@@ -45,14 +47,14 @@ permalink: /cv/
 		</div>
 	</div>
 	<div class="columns mb-0">
-		<div class="column is-3">	
+		<div class="column is-2">	
 			<div class="columns">
 				<div class="column has-text-left">
 				<p class="section-title">Experience</p>
 				</div>
 			</div>
 		</div>
-		<div class="column is-9">
+		<div class="column is-10">
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Postdoctoral fellow,</strong><i> University of Arizona,</i> Tucson, AZ, USA
