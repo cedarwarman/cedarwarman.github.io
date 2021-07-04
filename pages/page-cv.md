@@ -38,18 +38,18 @@ permalink: /cv/
 		</div>
 		<div class="column is-9">
 			<div class="columns is-mobile is-centered mb-0">
-				<div class="column is-9 has-text-left pl-0">
+				<div class="column is-9 has-text-left pl-0 pr-1">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
-				<div class="column is-3 has-text-right pr-0">
+				<div class="column is-3 has-text-right pl-1 pr-0">
 				2015 – 2020	
 				</div>
 			</div>
 			<div class="columns is-mobile is-centered mb-0">
-				<div class="column is-9 has-text-left pl-0">
+				<div class="column is-9 has-text-left pl-0 pr-1">
 				<strong>B.S., Biology, English,</strong><i> Boston College,</i> Chestnut Hill, MA, USA
 				</div>
-				<div class="column is-3 has-text-right pr-0">
+				<div class="column is-3 has-text-right pl-1 pr-0">
 				2005 – 2010	
 				</div>
 			</div>
