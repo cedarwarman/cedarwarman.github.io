@@ -209,6 +209,7 @@ permalink: /cv/
                 <strong>C. Warman,</strong> B. Hamilton, and J. E. Fowler. <i>nop</i> genes promote pollen tube growth in the maize male gametophyte. 6th Pan American Plant Membrane Biology Workshop, Vancouver, BC, Canada. June 2018.
                 </div>
                 <div class="column is-3 has-text-right pl-0 pr-0">
+                2018
                 </div>
             </div>
         </div>
