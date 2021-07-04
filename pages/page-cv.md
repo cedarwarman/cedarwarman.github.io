@@ -8,7 +8,8 @@ permalink: /cv/
     .section-title{ color: rgb(255, 131, 214); 
 				    font-weight: bold;
 				    font-size: 140%; }
-	.icon{ height: 1.2em; }
+	.icon{ height: 1.2em; 
+		   vertical-align: middle }
 </style>
 
 <div class="container is-max-desktop has-text-centered">
