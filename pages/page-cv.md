@@ -29,14 +29,14 @@ permalink: /cv/
 
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns mb-0 is-8">
-		<div class="column is-3">	
+		<div class="column is-2.5">	
 			<div class="columns">
 				<div class="column has-text-left">
 				<p class="section-title">Education</p>
 				</div>
 			</div>
 		</div>
-		<div class="column is-9">
+		<div class="column is-9.5">
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-10 has-text-left">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
