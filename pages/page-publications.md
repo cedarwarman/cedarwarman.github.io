@@ -5,7 +5,9 @@ hero_image: /img/claytonia.jpg
 permalink: /publications/
 ---
 
-<div class="container is-max-desktop"><h1>Publications</h1></div>
+<div class="container is-max-desktop">
+	<p class="title is-2">Publications</p>
+</div>
 <div class="container is-max-desktop"><hr>
 
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.</div>
