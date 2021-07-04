@@ -29,9 +29,9 @@ permalink: /cv/
 
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns mb-0">
-		<div class="column is-2">	
-			<div class="columns mr-2">
-				<div class="column has-text-left">
+		<div class="column is-2 mr-2">	
+			<div class="columns">
+				<div class="column has-text-left mr-2">
 				<p class="section-title">Education</p>
 				</div>
 			</div>
