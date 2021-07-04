@@ -31,7 +31,7 @@ permalink: /cv/
 	<div class="columns mb-0">
 		<div class="column is-2 mr-2">	
 			<div class="columns">
-				<div class="column has-text-left mr-2">
+				<div class="column has-text-left">
 				<p class="section-title">Education</p>
 				</div>
 			</div>
