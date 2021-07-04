@@ -225,6 +225,21 @@ permalink: /cv/
         <div class="column is-9">
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
+                J. E. Fowler, Z. Vejlupkova, <strong>C. Warman,</strong> and L. Zhou. Green kernels: The Dooner/Du Ds-GFP population enables a variety of research and outreach applications. 63rd Maize Genetics Conference, Virtual, March 2021.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2021
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                L. Zhou, Z. Vejlupkova, <strong>C. Warman,</strong> and J. E. Fowler. A maize male gametophyte-specific gene encodes ZmLARP6c1, a potential RNA binding protein required for competitive pollen tube growth. 63rd Maize Genetics Conference, Virtual, March 2021.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                </div>
+            </div>
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
                 <strong>C. Warman,</strong> J. Preece, P. Jaiswal, and J. E. Fowler. Custom built scanner and computer vision pipeline enables low-cost, large-scale phenotyping of maize ears. 61st Maize Genetics Conference, St. Louis, MO, USA. March 2019.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
@@ -248,20 +263,17 @@ permalink: /cv/
             </div>
 			<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
+                Z. Vejlupkova, S. Hokin, K. Panda, <strong>C. Warman,</strong> R. A. Cole, R. K. Slotkin, M. S. Evans, and J. E. Fowler. Transcriptomic characterization of male sexual reproduction in maize. 60th Maize Genetics Conference, Saint-Malo, France. March 2018.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 </div>
             </div>
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman,</strong> S. Colebrook, and J. E. Fowler.<i>nop1</i> and <i>nop2</i> are paralogous genes with likely functions in the maize male gametophyte. 59th Maize Genetics Conference, St. Louis, MO, USA. March 2017.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
-                </div>
-            </div>
-            <div class="columns is-mobile is-centered mb-0">
-                <div class="column is-10 has-text-left pl-0 pr-0">
-                </div>
-                <div class="column is-2 has-text-right pl-0 pr-0">
+                2017
                 </div>
             </div>
         </div>
