@@ -109,7 +109,8 @@ permalink: /cv/
 				</div>
 			</div>
 		</div>
-		<div class="columns mb-0 is-8">
+	</div>
+	<div class="columns mb-0 is-8">
         <div class="column is-2">
             <div class="columns">
                 <div class="column has-text-left">
