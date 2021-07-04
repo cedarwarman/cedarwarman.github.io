@@ -177,29 +177,36 @@ permalink: /cv/
             </div>
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-9 has-text-left pl-0 pr-0">
-                <strong>C. Warman,</strong> C. M. Sullivan, J. Preece, M. E. Buchanan, Z. Vejlupkova, P. Jaiswal, and J. E. Fowler. A cost-effective maize ear phenotyping platform enables rapid categorization and quantification of kernels. <i>The Plant Journal,</i> 106: 566–579. 2021. doi: <a href= "https://doi.org/10.1111/tpj.15166">10.1111/tpj.15166</a>
+                <strong>C. Warman,</strong> E. Vischulis, J. Koning, J. Preece, C. M. Sullivan, P. Jaiswal, and J. E. Fowler. Novel maize ear phenotyping methods enable large-scale functional validation of pollen transcriptome data. 28th International Plant and Animal Genome Conference, San Diego, CA, USA. January 2020.
                 </div>
                 <div class="column is-3 has-text-right pl-0 pr-0">
                 </div>
             </div>
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-9 has-text-left pl-0 pr-0">
-                L. Zhou, Z. Vejlupkova, <strong>C. Warman,</strong> and J.E. Fowler. A Maize Male Gametophyte-Specific Gene Encodes ZmLARP6c1, a Potential RNA-Binding Protein Required for Competitive Pollen Tube Growth. <i>Frontiers in Plant Science,</i> 12: 635244. 2021. doi: <a href= "https://doi.org/10.3389/fpls.2021.635244">10.3389/fpls.2021.635244</a>
+                <strong>C. Warman.</strong> High-throughput maize ear phenotyping with a custom-built scanner and machine learning seed detection, i.e., Computer counts corn, correctly? Bioinformatics Users Group, Oregon State University, Corvallis, OR, USA. November 2019.
                 </div>
                 <div class="column is-3 has-text-right pl-0 pr-0">
+                2019
                 </div>
             </div>
 			<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-9 has-text-left pl-0 pr-0">
-                Z. Vejlupkova, <strong>C. Warman,</strong> R. Sharma, H. V. Scheller, J. C. Mortimer, and J. E. Fowler. No evidence for transient transformation via pollen magnetofection in several monocot species. <i>Nature Plants,</i> 6, 1323–1324. 2020. doi: <a href= "https://doi.org/10.1038/s41477-020-00798-6">10.1038/s41477-020-00798-6</a>
+                <strong>C. Warman,</strong> J. Preece, C. M. Sullivan, P. Jaiswal, and J. E. Fowler. What do these genes do? Leveraging computer vision for large-scale phenotyping in maize. Center for Genome Research and Biocomputing Spring Conference, Oregon State University, Corvallis, OR, USA. April 2019. Winner, “Best Lightning Talk.”
                 </div>
                 <div class="column is-3 has-text-right pl-0 pr-0">
-                2020
                 </div>
             </div>
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-9 has-text-left pl-0 pr-0">
-                <strong>C. Warman,</strong> K. Panda, Z. Vejlupkova, S. Hokin, E. Unger-Wallace, R. A. Cole, A. M. Chettoor, D. Jiang, E. Vollbrecht, M. S. Evans, R. K. Slotkin, and J. E. Fowler. High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements. <i>PLOS Genetics</i>, 16: e1008462. 2020. doi: <a href= "https://doi.org/10.1371/journal.pgen.1008462">10.1371/journal.pgen.1008462</a>
+                <strong>C. Warman,</strong> Z. Vejlupkova, S. Hokin, E. Unger-Wallace, K. Panda, R. Cole, A. Chettoor, R. K. Slotkin, E. Vollbrecht, M. S. Evans, and J. E. Fowler. Pollen vegetative cell and sperm cell transcriptomes help predict mutation effects on fertilization success. 61st Maize Genetics Conference, St. Louis, MO, USA. March 2019.
+                </div>
+                <div class="column is-3 has-text-right pl-0 pr-0">
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-9 has-text-left pl-0 pr-0">
+                <strong>C. Warman,</strong> B. Hamilton, and J. E. Fowler. <i>nop</i> genes promote pollen tube growth in the maize male gametophyte. 6th Pan American Plant Membrane Biology Workshop, Vancouver, BC, Canada. June 2018.
                 </div>
                 <div class="column is-3 has-text-right pl-0 pr-0">
                 </div>
