@@ -109,5 +109,22 @@ permalink: /cv/
 				</div>
 			</div>
 		</div>
+		<div class="columns mb-0 is-8">
+        <div class="column is-2">
+            <div class="columns">
+                <div class="column has-text-left">
+                <p class="section-title">Publications</p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-10">
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-9 has-text-left">
+                <strong>C. Warman,</strong> K. Panda, Z. Vejlupkova, S. Hokin, E. Unger-Wallace, R. A. Cole, A. M. Chettoor, D. Jiang, E. Vollbrecht, M. S. Evans, R. K. Slotkin, and J. E. Fowler. High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements. <i>PLOS Genetics</i>, 2020;16: e1008462. doi: <a href= "https://doi.org/10.1371/journal.pgen.1008462">10.1371/journal.pgen.1008462</a>, 2020.
+                </div>
+                <div class="column is-3 has-text-right">
+                </div>
+            </div>
+        </div>
 	</div>
 </div>
