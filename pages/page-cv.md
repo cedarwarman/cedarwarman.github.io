@@ -119,6 +119,14 @@ permalink: /cv/
             </div>
         </div>
         <div class="column is-10">
+			<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-9 has-text-left">
+                Z. Vejlupkova, <strong>C. Warman,</strong> R. Sharma, H. V. Scheller, J. C. Mortimer, J. E. Fowler. No evidence for transient transformation via pollen magnetofection in several monocot species. <i>Nature Plants,</i> 6, 1323–1324, 2020. doi: <a href= "https://doi.org/10.1038/s41477-020-00798-6">10.1038/s41477-020-00798-6</a>, 2020.
+                </div>
+                <div class="column is-3 has-text-right">
+				2020
+                </div>
+            </div>
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-9 has-text-left">
                 <strong>C. Warman,</strong> K. Panda, Z. Vejlupkova, S. Hokin, E. Unger-Wallace, R. A. Cole, A. M. Chettoor, D. Jiang, E. Vollbrecht, M. S. Evans, R. K. Slotkin, and J. E. Fowler. High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements. <i>PLOS Genetics</i>, 2020;16: e1008462. doi: <a href= "https://doi.org/10.1371/journal.pgen.1008462">10.1371/journal.pgen.1008462</a>, 2020.
