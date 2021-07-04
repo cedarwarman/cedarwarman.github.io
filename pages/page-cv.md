@@ -28,7 +28,7 @@ permalink: /cv/
 </div>
 
 <div class="container is-max-desktop has-text-centered">
-	<div class="columns mb-0 is-5">
+	<div class="columns mb-0 is-8">
 		<div class="column is-2">	
 			<div class="columns">
 				<div class="column has-text-left">
@@ -59,7 +59,7 @@ permalink: /cv/
 			</div>
 		</div>
 	</div>
-	<div class="columns mb-0">
+	<div class="columns mb-0 is-8">
 		<div class="column is-2">	
 			<div class="columns">
 				<div class="column has-text-left">
@@ -67,7 +67,7 @@ permalink: /cv/
 				</div>
 			</div>
 		</div>
-		<div class="column is-10 ml-2">
+		<div class="column is-10">
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left">
 				<strong>Postdoctoral fellow,</strong><i> University of Arizona,</i> Tucson, AZ, USA
