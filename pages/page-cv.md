@@ -38,7 +38,7 @@ permalink: /cv/
 		</div>
 		<div class="column is-9">
 			<div class="columns is-mobile is-centered mb-0">
-				<div class="column is-9 has-text-left">
+				<div class="column is-9 has-text-left pl-0">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
 				<div class="column is-3 has-text-right">
@@ -46,7 +46,7 @@ permalink: /cv/
 				</div>
 			</div>
 			<div class="columns is-mobile is-centered mb-0">
-				<div class="column is-9 has-text-left">
+				<div class="column is-9 has-text-left pl-0">
 				<strong>B.S., Biology, English,</strong><i> Boston College,</i> Chestnut Hill, MA, USA
 				</div>
 				<div class="column is-3 has-text-right">
