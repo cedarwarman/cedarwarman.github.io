@@ -41,7 +41,7 @@ permalink: /cv/
 				<div class="column is-9 has-text-left pl-0">
 				<strong>Ph.D., Botany,</strong><i> Oregon State University,</i> Corvallis, OR, USA
 				</div>
-				<div class="column is-3 has-text-right">
+				<div class="column is-3 has-text-right pr-0">
 				2015 – 2020	
 				</div>
 			</div>
@@ -49,7 +49,7 @@ permalink: /cv/
 				<div class="column is-9 has-text-left pl-0">
 				<strong>B.S., Biology, English,</strong><i> Boston College,</i> Chestnut Hill, MA, USA
 				</div>
-				<div class="column is-3 has-text-right">
+				<div class="column is-3 has-text-right pr-0">
 				2005 – 2010	
 				</div>
 			</div>
@@ -62,7 +62,7 @@ permalink: /cv/
 	<div class="columns mb-0 is-8">
 		<div class="column is-3">	
 			<div class="columns">
-				<div class="column has-text-left">
+				<div class="column has-text-left pl-0">
 				<p class="section-title">Experience</p>
 				</div>
 			</div>
@@ -113,7 +113,7 @@ permalink: /cv/
 	<div class="columns mb-0 is-8">
         <div class="column is-3">
             <div class="columns">
-                <div class="column has-text-left">
+                <div class="column has-text-left pl-0">
                 <p class="section-title">Publications</p>
                 </div>
             </div>
