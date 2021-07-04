@@ -158,7 +158,7 @@ permalink: /cv/
             </div>
         </div>
 	</div>
-		<div class="columns mb-0 is-8">
+	<div class="columns mb-0 is-8">
         <div class="column is-3">
             <div class="columns">
                 <div class="column has-text-left pl-0">
@@ -210,6 +210,58 @@ permalink: /cv/
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2018
+                </div>
+            </div>
+        </div>
+	</div>
+		<div class="columns mb-0 is-8">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
+                <p class="section-title">Poster presentations</p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-9">
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman,</strong> J. Preece, P. Jaiswal, and J. E. Fowler. Custom built scanner and computer vision pipeline enables low-cost, large-scale phenotyping of maize ears. 61st Maize Genetics Conference, St. Louis, MO, USA. March 2019.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2019
+                </div>
+            </div>
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                Z. Vejlupkova, L. Zhou, R. Hartman, B. Hamilton, <strong>C. Warman,</strong> and J. E. Fowler. Towards robust transient transformation methods for maize pollen: Manipulating pollen tube germination and growth <i>in vitro</i>. 61st Maize Genetics Conference, St. Louis, MO, USA. March 2019.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                </div>
+            </div>
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman</strong> and J.E. Fowler. <i>nop</i> genes promote pollen tube growth in the maize male gametophyte. 60th Maize Genetics Conference, Saint-Malo, France. March 2018.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2018
+                </div>
+            </div>
+			<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
                 </div>
             </div>
         </div>
