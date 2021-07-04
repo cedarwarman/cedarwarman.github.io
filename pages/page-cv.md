@@ -29,9 +29,9 @@ permalink: /cv/
 
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns mb-0 is-8">
-		<div class="column is-3">	
-			<div class="columns">
-				<div class="column has-text-left pl-0">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
 				<p class="section-title">Education</p>
 				</div>
 			</div>
@@ -53,16 +53,12 @@ permalink: /cv/
 				2005 – 2010	
 				</div>
 			</div>
-			<div class="columns is-mobile is-centered">
-				<div class="column">
-				</div>
-			</div>
 		</div>
 	</div>
 	<div class="columns mb-0 is-8">
-		<div class="column is-3">	
-			<div class="columns">
-				<div class="column has-text-left pl-0">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
 				<p class="section-title">Experience</p>
 				</div>
 			</div>
@@ -100,7 +96,7 @@ permalink: /cv/
 				2012 – 2013	
 				</div>
 			</div>
-			<div class="columns is-mobile is-centered">
+			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left pl-0 pr-1">
 				<strong>Research technician,</strong><i> Washington State University,</i> Mt. St. Helens, WA, USA
 				</div>
@@ -270,7 +266,7 @@ permalink: /cv/
             </div>
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>C. Warman,</strong> S. Colebrook, and J. E. Fowler.<i>nop1</i> and <i>nop2</i> are paralogous genes with likely functions in the maize male gametophyte. 59th Maize Genetics Conference, St. Louis, MO, USA. March 2017.
+                <strong>C. Warman,</strong> S. Colebrook, and J. E. Fowler. <i>nop1</i> and <i>nop2</i> are paralogous genes with likely functions in the maize male gametophyte. 59th Maize Genetics Conference, St. Louis, MO, USA. March 2017.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2017
