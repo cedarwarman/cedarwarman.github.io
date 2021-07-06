@@ -32,6 +32,7 @@ permalink: /publications/
 </div>
 <div class="container is-max-desktop"><hr>
 
+<br>
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">Deep learning-based high-throughput phenotyping can drive future discoveries in plant reproductive biology.<i> Plant Reproduction</i>. 2021.</div>
 <div class="container is-max-desktop pb-4"><strong>Cedar Warman</strong>, John E. Fowler</div>
 <div class="columns is-centered">
