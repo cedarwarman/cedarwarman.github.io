@@ -8,7 +8,7 @@ permalink: /publications/
 <div class="container is-max-desktop">
 	<p class="title is-2">Publications</p>
 </div>
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop"><hr></div>
 
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.</div>
 <div class="container is-max-desktop pb-4"><strong>Cedar Warman</strong>, Christopher M. Sullivan, Justin Preece, Michaela E. Buchanan, Zuzana Vejlupkova, Pankaj Jaiswal, John E. Fowler</div>
@@ -30,7 +30,7 @@ permalink: /publications/
 	
     </div>
 </div>
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop"><hr></div>
 
 <br>
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">Deep learning-based high-throughput phenotyping can drive future discoveries in plant reproductive biology.<i> Plant Reproduction</i>. 2021.</div>
@@ -49,7 +49,7 @@ permalink: /publications/
         <li><a href="https://bpp.oregonstate.edu/users/john-fowler-jr" alt="Fowler Lab">Fowler Lab @ Oregon State University</a></li>
     </div>
 </div>
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop"><hr></div>
 
 <br>
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">A Maize Male Gametophyte-Specific Gene Encodes ZmLARP6c1, a Potential RNA-Binding Protein Required for Competitive Pollen Tube Growth.<i> Frontiers in Plant Science</i>. 2021.</div>
@@ -69,7 +69,7 @@ permalink: /publications/
         <li><a href="https://www.biorxiv.org/content/10.1101/2020.11.27.401307v1" alt="Arabidopsis larp6c link">LARP6C in Arabidopsis</a></li>
     </div>
 </div>
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop"><hr></div>
 
 <br>
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">No evidence for transient transformation via pollen magnetofection in several monocot species.<i> Nature Plants</i>. 2020.</div>
@@ -91,7 +91,7 @@ permalink: /publications/
         <li><a href="https://twitter.com/aeharkess/status/1023763311308021760" alt="Twitter thread">A relevant Twitter thread</a></li>
     </div>
 </div>
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop"><hr></div>
 
 <br>
 <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.</div>
