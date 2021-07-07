@@ -8,12 +8,13 @@ permalink: /publications/
 <div class="container is-max-desktop">
 	<p class="title is-2">Publications</p>
 </div>
+
 <div class="container is-max-desktop">
     <hr>
     <div class="container pb-3" style="font-size: 120% !important;">
         A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.
     </div>
-    <div class="container is-max-desktop pb-4">
+    <div class="container pb-4">
         <strong>Cedar Warman</strong>, Christopher M. Sullivan, Justin Preece, Michaela E. Buchanan, Zuzana Vejlupkova, Pankaj Jaiswal, John E. Fowler
     </div>
     <div class="columns is-centered">
@@ -37,10 +38,10 @@ permalink: /publications/
 
 <div class="container is-max-desktop"><hr>
     <br>
-    <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">
+    <div class="container pb-3" style="font-size: 120% !important;">
         Deep learning-based high-throughput phenotyping can drive future discoveries in plant reproductive biology.<i> Plant Reproduction</i>. 2021.
     </div>
-    <div class="container is-max-desktop pb-4">
+    <div class="container pb-4">
         <strong>Cedar Warman</strong>, John E. Fowler
     </div>
     <div class="columns is-centered">
@@ -61,10 +62,10 @@ permalink: /publications/
 
 <div class="container is-max-desktop"><hr>
     <br>
-    <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">
+    <div class="container pb-3" style="font-size: 120% !important;">
         A Maize Male Gametophyte-Specific Gene Encodes ZmLARP6c1, a Potential RNA-Binding Protein Required for Competitive Pollen Tube Growth.<i> Frontiers in Plant Science</i>. 2021.
     </div>
-    <div class="container is-max-desktop pb-4">
+    <div class="container pb-4">
         Lian Zhou, Zuzana Vejlupkova, <strong>Cedar Warman</strong>, John E. Fowler
     </div>
     <div class="columns is-centered">
@@ -86,10 +87,10 @@ permalink: /publications/
 
 <div class="container is-max-desktop"><hr>
     <br>
-    <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">
+    <div class="container pb-3" style="font-size: 120% !important;">
         No evidence for transient transformation via pollen magnetofection in several monocot species.<i> Nature Plants</i>. 2020.
     </div>
-    <div class="container is-max-desktop pb-4">
+    <div class="container pb-4">
         Zuzana Vejlupkova, <strong>Cedar Warman</strong>, Rita Sharma, Henrik Vibe Scheller, Jenny C. Mortimer, John E. Fowler
     </div>
     <div class="columns is-centered">
@@ -113,10 +114,10 @@ permalink: /publications/
 
 <div class="container is-max-desktop"><hr>
     <br>
-    <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">
+    <div class="container pb-3" style="font-size: 120% !important;">
         High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.
     </div>
-    <div class="container is-max-desktop pb-4">
+    <div class="container pb-4">
         <strong>Cedar Warman</strong>, Kaushik Panda, Zuzana Vejlupkova, Sam Hokin, Erica Unger-Wallace, Rex A. Cole, Antony M. Chettoor, Duo Jiang, Erik Vollbrecht, Matthew M. S. Evans, R. Keith Slotkin, John E. Fowler
     </div>
     <div class="columns is-centered">
