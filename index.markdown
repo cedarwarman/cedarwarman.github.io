@@ -11,16 +11,17 @@ hero_image: /img/darlingtonia.jpg
 hero_text: false
 hero_height: is-fullheight
 ---
+
 <style type="text/css">
-  .img { float: left; 
-         max-width:30%;
-         min-width:200px;
-         height:auto;
-         margin-right:15px; }
+    img { float: left; 
+          max-width:30%;
+          min-width:200px;
+          height:auto;
+          margin-right:15px; }
 </style>
 
 <div class="container is-max-desktop">
-  <p class="title is-2">Welcome to Cedar Warman's website</p>
+    <p class="title is-2">Welcome to Cedar Warman's website</p>
 </div>
 
 <div class="container is-max-desktop">
