@@ -6,11 +6,11 @@ permalink: /publications/
 ---
 
 <div class="container is-max-desktop">
-	<p class="title is-2">Publications</p>
+	<p class="title is-2 mb-0">Publications</p>
+    <hr>
 </div>
 
 <div class="container is-max-desktop">
-    <hr>
     <br>
     <div class="container pb-3" style="font-size: 120% !important;">
         A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.
