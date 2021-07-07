@@ -12,4 +12,5 @@ permalink: /research/
 <div class="container is-max-desktop">
     <hr>
     <br>
+    This is where a description of my research will go.
 </div>
