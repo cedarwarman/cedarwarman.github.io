@@ -14,7 +14,7 @@ hero_height: is-fullheight
 
 <style type="text/css">
     img { float: left; 
-          max-width:20%;
+          max-width:30%;
           min-width:200px;
           height:auto;
           margin-right:15px; 
