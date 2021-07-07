@@ -6,11 +6,11 @@ permalink: /publications/
 ---
 
 <div class="container is-max-desktop">
-	<p class="title is-2 mb-0">Publications</p>
-    <hr>
+	<p class="title is-2">Publications</p>
 </div>
 
 <div class="container is-max-desktop">
+    <hr>
     <br>
     <div class="container pb-3" style="font-size: 120% !important;">
         A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.
@@ -37,7 +37,8 @@ permalink: /publications/
     </div>
 </div>
 
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop">
+    <hr>
     <br>
     <div class="container pb-3" style="font-size: 120% !important;">
         Deep learning-based high-throughput phenotyping can drive future discoveries in plant reproductive biology.<i> Plant Reproduction</i>. 2021.
@@ -61,7 +62,8 @@ permalink: /publications/
     </div>
 </div>
 
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop">
+    <hr>
     <br>
     <div class="container pb-3" style="font-size: 120% !important;">
         A Maize Male Gametophyte-Specific Gene Encodes ZmLARP6c1, a Potential RNA-Binding Protein Required for Competitive Pollen Tube Growth.<i> Frontiers in Plant Science</i>. 2021.
@@ -86,7 +88,8 @@ permalink: /publications/
     </div>
 </div>
 
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop">
+    <hr>
     <br>
     <div class="container pb-3" style="font-size: 120% !important;">
         No evidence for transient transformation via pollen magnetofection in several monocot species.<i> Nature Plants</i>. 2020.
@@ -113,7 +116,8 @@ permalink: /publications/
     </div>
 </div>
 
-<div class="container is-max-desktop"><hr>
+<div class="container is-max-desktop">
+    <hr>
     <br>
     <div class="container pb-3" style="font-size: 120% !important;">
         High expression in maize pollen correlates with genetic contributions to pollen fitness as well as with coordinated transcription from neighboring transposable elements.<i> PLOS Genetics</i>. 2020.
