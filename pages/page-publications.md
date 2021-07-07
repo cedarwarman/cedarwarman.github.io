@@ -8,26 +8,30 @@ permalink: /publications/
 <div class="container is-max-desktop">
 	<p class="title is-2">Publications</p>
 </div>
-<div class="container is-max-desktop"><hr></div>
-
-<div class="container is-max-desktop pb-3" style="font-size: 120% !important;">A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.</div>
-<div class="container is-max-desktop pb-4"><strong>Cedar Warman</strong>, Christopher M. Sullivan, Justin Preece, Michaela E. Buchanan, Zuzana Vejlupkova, Pankaj Jaiswal, John E. Fowler</div>
-<div class="columns is-centered">
-    <div class="column is-7">
-        <img src="/img/warman_2021_plant_journal.jpg" alt="Maize ear scanner">
+<div class="container is-max-desktop">
+    <hr>
+    <div class="container is-max-desktop pb-3" style="font-size: 120% !important;">
+        A cost‐effective maize ear phenotyping platform enables rapid categorization and quantification of kernels.<i> The Plant Journal</i>. 2021.
     </div>
-    <div class="column is-5">
-        <strong>Access the paper</strong>
-        <li>DOI: <a href="https://doi.org/10.1111/tpj.15166" alt = "DOI link: 10.1111/tpj.15166"> 10.1111/tpj.15166</a></li>
-        <li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33476427/" alt = "pubmed link: 33476427"> 33476427</a></li>
-        <li><a href="https://cedarwarman.github.io/pdf/warman_2021_plant_journal.pdf" alt = "PDF"> Full Text PDF</a></li>
-        <br>
-        <strong>Additional links</strong>:
-        <li><a href="https://bpp.oregonstate.edu/users/john-fowler-jr" alt="Fowler Lab">Fowler Lab @ Oregon State University</a></li>
-        <li><a href="https://cgrb.oregonstate.edu/" alt="CGRB">Center for Genome Research and Biocomputing @ Oregon State University</a></li>
-        <li><a href="https://github.com/fowler-lab-osu/EarVision" alt="EarVision">EarVision object detection model (Tensorflow)</a></li>
-        <li><a href="https://datacommons.cyverse.org/browse/iplant/home/shared/EarVision_maize_kernel_image_data/training_and_validation_images" alt="Training data">300 maize ear images with kernels annotated by bounding boxes (Pascal VOC format)</a></li>
-	
+    <div class="container is-max-desktop pb-4">
+        <strong>Cedar Warman</strong>, Christopher M. Sullivan, Justin Preece, Michaela E. Buchanan, Zuzana Vejlupkova, Pankaj Jaiswal, John E. Fowler
+    </div>
+    <div class="columns is-centered">
+        <div class="column is-7">
+            <img src="/img/warman_2021_plant_journal.jpg" alt="Maize ear scanner">
+        </div>
+        <div class="column is-5">
+            <strong>Access the paper</strong>
+            <li>DOI: <a href="https://doi.org/10.1111/tpj.15166" alt = "DOI link: 10.1111/tpj.15166"> 10.1111/tpj.15166</a></li>
+            <li>PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33476427/" alt = "pubmed link: 33476427"> 33476427</a></li>
+            <li><a href="https://cedarwarman.github.io/pdf/warman_2021_plant_journal.pdf" alt = "PDF"> Full Text PDF</a></li>
+            <br>
+            <strong>Additional links</strong>:
+            <li><a href="https://bpp.oregonstate.edu/users/john-fowler-jr" alt="Fowler Lab">Fowler Lab @ Oregon State University</a></li>
+            <li><a href="https://cgrb.oregonstate.edu/" alt="CGRB">Center for Genome Research and Biocomputing @ Oregon State University</a></li>
+            <li><a href="https://github.com/fowler-lab-osu/EarVision" alt="EarVision">EarVision object detection model (Tensorflow)</a></li>
+            <li><a href="https://datacommons.cyverse.org/browse/iplant/home/shared/EarVision_maize_kernel_image_data/training_and_validation_images" alt="Training data">300 maize ear images with kernels annotated by bounding boxes (Pascal VOC format)</a></li>
+        </div>
     </div>
 </div>
 <div class="container is-max-desktop"><hr></div>
