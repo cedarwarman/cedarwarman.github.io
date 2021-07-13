@@ -210,7 +210,7 @@ permalink: /cv/
             </div>
         </div>
 	</div>
-		<div class="columns mb-0 is-8">
+	<div class="columns mb-0 is-8">
         <div class="column is-3">
             <div class="columns">
                 <div class="column has-text-left pl-0">
@@ -274,4 +274,48 @@ permalink: /cv/
             </div>
         </div>
 	</div>
+    </div>
+        <div class="columns mb-0 is-8">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
+                <p class="section-title">Grants and funding</p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-9">
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                NSF Postdoctoral Research Fellowship in Biology
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2021-2024
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                Oregon Lottery Graduate Scholarship 
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2019
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                Anita Summers Travel Awards
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2018-2020
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                Provost’s Graduate Scholarship 
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2015-2016
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
