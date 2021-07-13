@@ -417,14 +417,14 @@ permalink: /cv/
         <div class="column is-9">
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>English,</strong> Fluent
+                English: fluent
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 </div>
             </div>
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>Spanish,</strong> Basic
+                Spanish: basic
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 </div>
