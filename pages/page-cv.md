@@ -371,7 +371,7 @@ permalink: /cv/
             </div>
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>Poetry and fiction reviewer</strong>, <i>Post Road Magazine</i>, Boston, MA, USA
+                <strong>Poetry and fiction reviewer,</strong> <i>Post Road Magazine</i>, Boston, MA, USA
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2009 – 2016
@@ -432,3 +432,11 @@ permalink: /cv/
         </div>
     </div>
 </div>
+
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+		Test text for footer
+    </p>
+  </div>
+</footer>
