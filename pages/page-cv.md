@@ -355,7 +355,7 @@ permalink: /cv/
         <div class="column is-9">
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>Vice president,</strong> Dunbar/Spring Neighborhood Association, Tucson, AZ, USA
+                <strong>Vice president,</strong> <i>Dunbar/Spring Neighborhood Association,</i> Tucson, AZ, USA
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2021 – present
@@ -363,7 +363,7 @@ permalink: /cv/
             </div>
             <div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>Vice president,</strong> Mary's Peak Orchid Society, Corvallis, OR, USA
+                <strong>Vice president,</strong> <i>Mary's Peak Orchid Society,</i> Corvallis, OR, USA
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2016 – 2020
@@ -375,6 +375,58 @@ permalink: /cv/
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2009 – 2016
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="columns mb-0 is-8">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
+                <p class="section-title">Patents and disclosures</p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-9">
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>A novel system to quantify maize seed phenotypes,</strong> Provisional patent, OSU-20-09
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2020
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>Seed identification and quantification from flat images of maize ears,</strong> Software and Digital Media Disclosure, OSU-20-10
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2020
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="columns mb-0 is-8">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
+                <p class="section-title">Languages</p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-9">
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>English,</strong> Fluent
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>Spanish,</strong> Basic
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
                 </div>
             </div>
         </div>
