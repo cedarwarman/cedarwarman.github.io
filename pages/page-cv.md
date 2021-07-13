@@ -288,7 +288,7 @@ permalink: /cv/
                 NSF Postdoctoral Research Fellowship in Biology
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
-                2021-2024
+                2021 – 2024
                 </div>
             </div>
             <div class="columns is-mobile is-centered mb-0">
@@ -304,7 +304,7 @@ permalink: /cv/
                 Anita Summers Travel Awards
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
-                2018-2020
+                2018 – 2020
                 </div>
             </div>
             <div class="columns is-mobile is-centered mb-0">
@@ -312,7 +312,69 @@ permalink: /cv/
                 Provost’s Graduate Scholarship 
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
-                2015-2016
+                2015 – 2016
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="columns mb-0 is-8">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
+                <p class="section-title">University service</p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-9">
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>Graduate representative,</strong> Departmental Infrastructure Committee,<i> Oregon State University,</i> Corvallis, OR, USA
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2018 – 2020
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>Mentor,</strong> Bolstering Undergraduate Development & Success (BUDS),<i> Oregon State University,</i> Corvallis, OR, USA
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2016 – 2020
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="columns mb-0 is-8">
+        <div class="column is-3">
+            <div class="columns">
+                <div class="column has-text-left pl-0">
+                <p class="section-title">Community service</p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-9">
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>Vice president,</strong> Dunbar/Spring Neighborhood Association, Tucson, AZ, USA
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2021 – present
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>Vice president,</strong> Mary's Peak Orchid Society, Corvallis, OR, USA
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2016 – 2020
+                </div>
+            </div>
+            <div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>Poetry and fiction reviewer</strong>, <i>Post Road Magazine</i>, Boston, MA, USA
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2009 – 2016
                 </div>
             </div>
         </div>
