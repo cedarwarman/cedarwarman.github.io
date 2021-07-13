@@ -401,7 +401,6 @@ permalink: /cv/
                 <strong>Seed identification and quantification from flat images of maize ears,</strong> Software and Digital Media Disclosure, OSU-20-10
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
-                2020
                 </div>
             </div>
         </div>
@@ -432,11 +431,3 @@ permalink: /cv/
         </div>
     </div>
 </div>
-
-<footer class="footer">
-  <div class="content has-text-centered">
-    <p>
-		Test text for footer
-    </p>
-  </div>
-</footer>
