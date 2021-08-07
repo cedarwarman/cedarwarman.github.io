@@ -26,7 +26,7 @@ permalink: /research/
 	</div>
 	<div class="columns">
 		<div class="column is-4">
-			<img src="/img/thermotolerance_fig.jpg" alt="Diagram of tomato thermotolerance experiment. A variety of tomato accessions will be grown, phenotypes will be measured, and GWAS/genomic prediction will be performed">
+			<img src="/img/thermotolerance_fig.jpg" alt="Diagram of tomato thermotolerance experiment">
 		</div>
 		<div class="column is-8">
 			<p class="title is-3 mb-3">Plant reproduction and heat stress</p>
