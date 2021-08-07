@@ -15,9 +15,9 @@ permalink: /research/
 
 <div class="container is-max-desktop">
     <hr>
-	<p class="title is-3">Pollen molecular function</p>
 	<div class="columns">
 		<div class="column is-8">
+		<p class="title is-3">Pollen molecular function</p>
 		To the human eye, pollen is a tiny, featureless dot of yellow, if it can be seen at all. However, hidden within this dot is a complex organism, genetically distinct and independent from its parent. It moves through the world, interacts with the environment, and competes with other pollen to complete the cycle of plant reproduction. I study these processes using molecular, genetic, and computational tools. In maize, I have identified a series of mutant genes that are associated with problems in reproduction. Experiments with these mutants have contributed to our understanding of fundamental processes in plant reproduction.
 		</div>
 		<div class="column is-4">
