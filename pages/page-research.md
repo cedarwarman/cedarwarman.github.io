@@ -9,14 +9,13 @@ permalink: /research/
 <style type="text/css">
     img { border: 1px solid #000000; }
 </style>
+-->
 
 <div class="container is-max-desktop">
     <p class="title is-2">Research</p>
 </div>
--->
 
 <div class="container is-max-desktop">
-	<p class="title is-2">Research</p>
     <hr>
 	<div class="columns mb-0 pb-0">
 		<div class="column is-8">
