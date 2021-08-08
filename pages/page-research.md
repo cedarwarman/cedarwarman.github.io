@@ -20,7 +20,7 @@ permalink: /research/
     <hr>
 	<div class="columns">
 		<div class="column is-8">
-			<p class="title is-3 mb-1">Pollen molecular function</p>
+			<p class="title is-3 mb-0 pb-0">Pollen molecular function</p>
 		</div>
 		<div class="column is-4">
 		</div>
