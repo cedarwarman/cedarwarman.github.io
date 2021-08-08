@@ -19,7 +19,7 @@ permalink: /research/
     <hr>
 	<div class="columns">
 		<div class="column is-8">
-			<p class="title is-3">Pollen molecular function</p>
+			<p class="title is-3 mb-0">Pollen molecular function</p>
 		</div>
 		<div class="column is-4">
 		</div>
@@ -57,7 +57,7 @@ permalink: /research/
 <div class="container is-max-desktop">
 	<div class="columns">
 		<div class="column is-8">
-			<p class="title is-3 mb-3">Methods and data science</p>
+			<p class="title is-3 mb-0">Methods and data science</p>
 		</div>
 		<div class="column is-4">
 		</div>
