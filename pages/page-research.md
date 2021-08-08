@@ -36,7 +36,6 @@ permalink: /research/
 	</div>
 </div>
 <div class="container is-max-desktop">
-	<hr>
 	<div class="columns">
 		<div class="column is-4">
 		</div>
@@ -56,7 +55,6 @@ permalink: /research/
 	</div>
 </div>
 <div class="container is-max-desktop">
-	<hr>
 	<div class="columns">
 		<div class="column is-8">
 			<p class="title is-3 mt-4 mb-0">Methods and data science</p>

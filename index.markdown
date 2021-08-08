@@ -23,6 +23,14 @@ hero_height: is-fullheight
 </style>
 -->
 
+<style type="text/css">
+    img { float: left; 
+          max-width:30%;
+          min-width:200px;
+          height:auto;
+          margin-right:15px; }
+</style>
+
 <div class="container is-max-desktop">
     <p class="title is-2">Welcome to Cedar Warman's website</p>
 </div>
