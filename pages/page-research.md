@@ -35,12 +35,12 @@ permalink: /research/
 		</div>
 	</div>
 </div>
-<div class="container is-max-desktop mb-0">
+<div class="container is-max-desktop">
 	<div class="columns">
 		<div class="column is-4">
 		</div>
 		<div class="column is-8">
-			<p class="title is-3 mb-3">Plant reproduction and heat stress</p>
+			<p class="title is-3 mb-0">Plant reproduction and heat stress</p>
 		</div>
 	</div>
 </div>
