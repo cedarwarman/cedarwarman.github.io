@@ -18,9 +18,9 @@ permalink: /research/
 <div class="container is-max-desktop">
 	<p class="title is-2">Research</p>
     <hr>
-	<div class="columns">
+	<div class="columns mb-0 pb-0">
 		<div class="column is-8">
-			<p class="title is-3 mb-0 pb-0">Pollen molecular function</p>
+			<p class="title is-3">Pollen molecular function</p>
 		</div>
 		<div class="column is-4">
 		</div>
