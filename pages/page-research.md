@@ -35,7 +35,7 @@ permalink: /research/
 		</div>
 	</div>
 </div>
-<div class="container is-max-desktop">
+<div class="container is-max-desktop mb-0">
 	<div class="columns">
 		<div class="column is-4">
 		</div>
