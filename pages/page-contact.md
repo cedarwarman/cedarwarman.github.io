@@ -5,17 +5,24 @@ hero_image: /img/truck.jpg
 permalink: /contact/
 ---
 
-<div class="container is-max-desktop">
+<div class="container is-max-desktop has-text-centered">
 	<p class="title is-2">Contact Cedar</p>
 </div>
 
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
-		<div class="column">
+		<div class="column is-3">
+		</div>
+		<div class="column is-6">
 			<p class="my-2">
 				Cedar Warman can be found on the 4th floor of the Marley Building at the University of Arizona in Tucson, AZ.
 			</p>
-			<br>
+		</div>
+		<div class="column is-3">
+		</div>
+	</div>
+	<div class="columns">
+		<div class="column">
 			<p class="my-2">He can also be reached via email:</p>
 			<p class="my-2">cedardalewarman [at] gmail.com</p>
 			<br>
