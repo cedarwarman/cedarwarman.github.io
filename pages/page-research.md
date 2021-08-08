@@ -46,11 +46,11 @@ permalink: /research/
 </div>
 <div class="container is-max-desktop">
 	<div class="columns is-flex-direction-row-reverse">
-		<div class="column is-4">
-			<img src="/img/thermotolerance_fig.jpg" alt="Diagram of tomato thermotolerance experiment">
-		</div>
 		<div class="column is-8">
 			Crops around the world are constantly subjected to environmental stresses that reduce their ability to produce food. Reproductive processes in plants are particularly sensitive to periods of high heat. In tomato, heat stress during pollen tube growth leads to fewer fruits and lower yield. I am currently studying the genetic basis of heat tolerance during tomato reproduction. For this project, I have collected a diverse panel of tomato varieties that show a wide range of responses to heat stress. I will observe pollen grown from these varieties across a range of temperatures using automated microscopy and computer vision. Using data from these observations, I will search for associations between variations in pollen growth and variations in the genome of each variety. These associations may highlight regions of the tomato genome that are important for heat stress responses and which can ultimately be used to breed better tomatoes.	
+		</div>
+		<div class="column is-4">
+			<img src="/img/thermotolerance_fig.jpg" alt="Diagram of tomato thermotolerance experiment">
 		</div>
 	</div>
 </div>
