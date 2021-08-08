@@ -4,5 +4,7 @@
   link: /publications/
 - name: CV
   link: /cv/
-- name: Sensors
-  link: /sensors/
+# - name: Sensors
+#   link: /sensors/
+- name: Contact
+  link: /contact/
