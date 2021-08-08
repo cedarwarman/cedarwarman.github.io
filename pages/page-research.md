@@ -74,12 +74,12 @@ permalink: /research/
 	</div>
 </div>
 <div class="container is-max-desktop">
-	<div class="columns">
-		<div class="column is-4">
-			<img src="/img/earvision.jpg" alt="Maize ear scanner">
-		</div>
+	<div class="columns is-flex-direction-row-reverse">
 		<div class="column is-8">
 			I am currently working on new phenotyping methods and new ways to understand the data that they produce. These two areas come together in my study of tomato responses to heat stress. This project will produce vast amounts of phenotypic and genomic data. In addition to creating a new high-throughput pollen phenotyping system, I am studying methods to efficiently analyze these data. These methods include statistical techniques like genome-wide association and genomic prediction, the implementation of deep learning models on high-performance computing clusters with containerized code, and the development of Shiny apps to visualize and share data with my collaborators.
+		</div>
+		<div class="column is-4">
+			<img src="/img/earvision.jpg" alt="Maize ear scanner">
 		</div>
 	</div>
 </div>
