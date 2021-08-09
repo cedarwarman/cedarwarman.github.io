@@ -10,17 +10,12 @@ title: " "
 hero_image: /img/hero/darlingtonia.jpg
 hero_text: false
 hero_height: is-fullheight
-show_sidebar: false
+show_sidebar: true
 ---
 
 <!--
 <style type="text/css">
-    img { float: left; 
-          max-width:30%;
-          min-width:200px;
-          height:auto;
-          margin-right:15px; 
-          border: 1px solid #000000; }
+    img { max-width:300px; }
 </style>
 
 <style type="text/css">
