@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " "
+title: "Connecting a headless Raspberry Pi to University of Arizona wifi (and fixing time)"
 description: 
 author: Cedar Warman
 date: 2020-08-09
@@ -9,11 +9,6 @@ image: /img/blog/2021-08-09-raspberry-pi-zero.jpg
 tags: raspberry-pi raspberry-pi-os linux wifi university-of-arizona
 canonical_url: https://www.cedarwarman.com/2020/08/09/connecting-to-campus-wifi.html
 ---
-
-<p class="title is-2">Connecting a headless Raspberry Pi to University of Arizona wifi (and fixing time)</p>
-
-<hr>
-
 
 I have a lot of <a href="https://www.raspberrypi.org/products/raspberry-pi-zero-w/">Raspberry Pi Zeros</a>. Most of them are spread across various basement growth chambers at the University of Arizona. They run sensors that monitor heat and humidity inside the chambers and upload the data to the cloud for visualization in a <a href="https://shiny.rstudio.com/">Shiny</a> app. To keep costs down, I run the Pi’s headless, meaning no monitor, mouse, or keyboard. This works fine at home, where I can easily add the network name and password to the `/etc/wpa_supplicant/wpa_supplicant.conf` file by directly editing it on the SD card before I plug it into the Pi, as described in the <a href="https://www.raspberrypi.org/documentation/configuration/wireless/headless.md">Raspberry Pi docs</a>:
 
