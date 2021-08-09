@@ -9,7 +9,7 @@ tags: raspberry-pi wifi
 canonical_url: 
 ---
 
-I have a lot of <a href=”https://www.raspberrypi.org/products/raspberry-pi-zero-w/”>Raspberry Pi Zeros</a>. Most of them are spread across various basement growth chambers at the University of Arizona. They run sensors that monitor heat and humidity inside the chambers and upload the data to the cloud for visualization in a <a href=”https://shiny.rstudio.com/”>Shiny</a> app. To keep costs down, I run the Pi’s headless, meaning no monitor, mouse, or keyboard. This works fine at home, where I can easily add the network name and password to the `/etc/wpa_supplicant/wpa_supplicant.conf` file by directly editing it on the SD card before I plug it into the Pi, as described in the <a href=”https://www.raspberrypi.org/documentation/configuration/wireless/headless.md”>Raspberry Pi docs</a>:
+I have a lot of <a href="https://www.raspberrypi.org/products/raspberry-pi-zero-w/">Raspberry Pi Zeros</a>. Most of them are spread across various basement growth chambers at the University of Arizona. They run sensors that monitor heat and humidity inside the chambers and upload the data to the cloud for visualization in a <a href="https://shiny.rstudio.com/">Shiny</a> app. To keep costs down, I run the Pi’s headless, meaning no monitor, mouse, or keyboard. This works fine at home, where I can easily add the network name and password to the `/etc/wpa_supplicant/wpa_supplicant.conf` file by directly editing it on the SD card before I plug it into the Pi, as described in the <a href="https://www.raspberrypi.org/documentation/configuration/wireless/headless.md">Raspberry Pi docs</a>:
 
 ```bash
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
@@ -22,7 +22,7 @@ network={
 }
 ```
 
-However, when I try to do the same thing on campus, I quickly run into problems. When you connect to the University of Arizona wifi you have to click through a series of screens where you enter your username and password. This doesn’t work on a headless Pi. Fortunately, with the right configuration files you can still get through. I got the following network configurations from campus IT: “Phase II authentication: MCSCHAPV2, EAP method: PEAP, Certificate: do not validate, Anonymous Identity: leave blank.” Combining this info with directions from <a href=”https://www.miskatonic.org/2019/04/24/networkingpi/”>this blog post</a> allowed me to complete the configuration.
+However, when I try to do the same thing on campus, I quickly run into problems. When you connect to the University of Arizona wifi you have to click through a series of screens where you enter your username and password. This doesn’t work on a headless Pi. Fortunately, with the right configuration files you can still get through. I got the following network configurations from campus IT: “Phase II authentication: MCSCHAPV2, EAP method: PEAP, Certificate: do not validate, Anonymous Identity: leave blank.” Combining this info with directions from <a href="https://www.miskatonic.org/2019/04/24/networkingpi/">this blog post</a> allowed me to complete the configuration.
 
 First, edit `/etc/wpa_supplicant/wpa_supplicant.conf`file as follows:
 
@@ -81,7 +81,7 @@ And that’s it! Except for one small thing. It looks like the University of Ari
 sudo apt-get install htpdate
 ```
 
-`htpdate` will <a href”https://github.com/angeloc/htpdate”>“synchronize your computer's time by extracting timestamps from HTTP headers found in web server responses,”</a> eliminating the need to access special ports. The downside is that it’s not as accurate as NTP, but the <1 second accuracy is good enough for my projects.
+`htpdate` will <a href="https://github.com/angeloc/htpdate">“synchronize your computer's time by extracting timestamps from HTTP headers found in web server responses,”</a> eliminating the need to access special ports. The downside is that it’s not as accurate as NTP, but the <1 second accuracy is good enough for my projects.
 
-In writing this post I came across <a href=”https://uarizona.service-now.com/sp?id=sc_cat_item&sys_id=d902391ddb3728109627d90d689619d8”>this page</a> from the University of Arizona. They describe a `wpa_supplicant` configuration for Raspberry Pi/Linux that might also work. Full disclosure: I’m not even close to being an expert at these things. I have tested my method using ​​Raspberry Pi OS Lite kernel version 5.10. Good luck!
+In writing this post I came across <a href="https://uarizona.service-now.com/sp?id=sc_cat_item&sys_id=d902391ddb3728109627d90d689619d8">this page</a> from the University of Arizona. They describe a `wpa_supplicant` configuration for Raspberry Pi/Linux that might also work. Full disclosure: I’m not even close to being an expert at these things. I have tested my method using ​​Raspberry Pi OS Lite kernel version 5.10. Good luck!
 
