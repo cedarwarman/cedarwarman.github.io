@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: page
-hero_image: /img/truck.jpg
+hero_image: /img/hero/truck.jpg
 permalink: /contact/
 ---
 

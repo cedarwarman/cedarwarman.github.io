@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: page
-hero_image: /img/tulips.jpg
+hero_image: /img/hero/tulips.jpg
 permalink: /cv/
 ---
 <style type="text/css">

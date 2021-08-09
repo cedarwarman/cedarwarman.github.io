@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: page
-hero_image: /img/cactus.jpg
+hero_image: /img/hero/cactus.jpg
 permalink: /research/
 ---
 

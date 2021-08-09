@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: page
-hero_image: /img/claytonia.jpg
+hero_image: /img/hero/claytonia.jpg
 permalink: /publications/
 ---
 
