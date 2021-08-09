@@ -251,7 +251,7 @@ permalink: /cv/
             </div>
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>C. Warman</strong> and J.E. Fowler. <i>nop</i> genes promote pollen tube growth in the maize male gametophyte. 60th Maize Genetics Conference, Saint-Malo, France. March 2018.
+                <strong>C. Warman</strong> and J. E. Fowler. <i>nop</i> genes promote pollen tube growth in the maize male gametophyte. 60th Maize Genetics Conference, Saint-Malo, France. March 2018.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2018

@@ -20,7 +20,7 @@ permalink: /contact/
 		</div>
 		<div class="column is-6">
 			<p class="my-2">
-				Cedar Warman can be found on the 4th floor of the Marley Building at the University of Arizona in Tucson, AZ.
+				I can often be found on the 4th floor of the Marley Building at the University of Arizona in Tucson, AZ.
 			</p>
 		</div>
 		<div class="column is-3">
@@ -28,7 +28,7 @@ permalink: /contact/
 	</div>
 	<div class="columns">
 		<div class="column">
-			<p class="my-2">He can also be reached via email:</p>
+			<p class="my-2">I can also be reached via email:</p>
 			<p class="email-address my-2">cedardalewarman {at} gmail.com</p>
 			<br>
 			<p class="mb-4">Or on the web:</p>
