@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<div class="content is-max-desktop">
+<div class="content">
 
     <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
 
 	<p>IT WORKED</p>
 
-    {{ content }}
+	<div class="container is-max-desktop">
+    	{{ content }}
+	</div>
 </div>
 
 <div class="tags">
