@@ -30,7 +30,7 @@ network={
 
 However, when I try to do the same thing on campus, I quickly run into problems. When you connect to the University of Arizona wifi you have to click through a series of screens where you enter your username and password. This doesn’t work on a headless Pi. Fortunately, with the right configuration files you can still get through. I got the following network configurations from campus IT: “Phase II authentication: MCSCHAPV2, EAP method: PEAP, Certificate: do not validate, Anonymous Identity: leave blank.” Combining this info with directions from <a href="https://www.miskatonic.org/2019/04/24/networkingpi/">this blog post</a> allowed me to complete the configuration.
 
-First, edit `/etc/wpa_supplicant/wpa_supplicant.conf`file as follows:
+First, edit the `/etc/wpa_supplicant/wpa_supplicant.conf`file as follows:
 
 ```bash
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
