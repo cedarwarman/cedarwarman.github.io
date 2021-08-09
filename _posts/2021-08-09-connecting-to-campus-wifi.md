@@ -6,8 +6,8 @@ author: Cedar Warman
 date: 2020-08-09
 hero_image: /img/blog/2021-08-09-raspberry-pi-zero.jpg
 image: /img/blog/2021-08-09-raspberry-pi-zero.jpg
-tags: raspberry-pi wifi 
-canonical_url: 
+tags: raspberry-pi raspberry-pi-os linux wifi university-of-arizona
+canonical_url: https://www.cedarwarman.com/2020/08/09/connecting-to-campus-wifi.html
 ---
 
 <p class="title is-2">Connecting a headless Raspberry Pi to University of Arizona wifi (and fixing time)</p>

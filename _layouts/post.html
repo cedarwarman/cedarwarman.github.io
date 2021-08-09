@@ -4,9 +4,9 @@ layout: default
 
 <div class="content">
 
-    <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
-
-	<p>IT WORKED</p>
+	<div class="container is-max-desktop">
+    	<p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+	</div>
 
 	<div class="container is-max-desktop">
     	{{ content }}
@@ -14,14 +14,18 @@ layout: default
 </div>
 
 <div class="tags">
-    {% for tag in page.tags %}
-      {% include tag.html tag=tag %}
-    {% endfor %}
+	<div class="container is-max-desktop">
+    	{% for tag in page.tags %}
+    	  {% include tag.html tag=tag %}
+    	{% endfor %}
+	</div>
 </div>
 
-{% unless site.hide_share_buttons %}
-{% include share-buttons.html %}
-{% endunless %}
+<div class="container is-max-desktop">
+	{% unless site.hide_share_buttons %}
+	{% include share-buttons.html %}
+	{% endunless %}
+</div>
 
 {% if site.disqus.shortname %}
   {% include disqus.html %}
