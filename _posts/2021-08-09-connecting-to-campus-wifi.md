@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Connecting a headless Raspberry Pi to University of Arizona wifi (and fixing time)
+title: " "
 description: 
+author: Cedar Warman
 date: 2020-08-09
 hero_image: /img/blog/2021-08-09-raspberry-pi-zero.jpg
 image: /img/blog/2021-08-09-raspberry-pi-zero.jpg
