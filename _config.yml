@@ -20,9 +20,9 @@
 
 title: Cedar Warman 
 #email: your-email@example.com
-description: on the web
+description: on the web at
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.cedarwarman.com
 twitter_username: cedarwarman
 title_image: https://www.cedarwarman.com/img/pollen_in_oil.jpg
 #github_username:  jekyll
