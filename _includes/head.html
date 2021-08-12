@@ -3,11 +3,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content={{ site.theme_color | default: '#ffffff' }}>
 
+	<!--
 	<meta name="twitter:card" content="summary"> 
 	<meta name="twitter:site" content="@cedarwarman">
 	<meta name="twitter:title" content="Cedar Warman's website">
 	<meta name="twitter:description" content="on the web">
 	<meta name="twitter:image" content="https://www.cedarwarman.com/img/pollen_in_oil.jpg">
+	-->
+
+
+	<!-- Twitter cards -->
+	<meta name="twitter:site"    content="@{{ site.twitter_username }}">
+	<meta name="twitter:creator" content="@{{ page.author }}">
+	<meta name="twitter:title"   content="{{ page.title }}">
+	
+	{% if page.summary %}
+	<meta name="twitter:description" content="{{ page.summary }}">
+	{% else %}
+	<meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
+	
+	{% if page.image %}
+	<meta name="twitter:card"  content="summary_large_image">
+	<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+	{% else %}
+	<meta name="twitter:card"  content="summary">
+	<meta name="twitter:image" content="{{ site.title_image }}">
+	{% endif %}
+	<!-- end of Twitter cards -->
+
+
 
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/app.css">
     <link rel="shortcut icon" type="image/png"
