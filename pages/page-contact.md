@@ -8,6 +8,8 @@ permalink: /contact/
 <style type="text/css">
     .email-address{ color: rgb(255, 131, 214);
                     font-weight: bold; }
+	.icon{ height: 1.3em;
+           vertical-align: middle }
 </style>
 
 <div class="container is-max-desktop has-text-centered">
