@@ -20,7 +20,7 @@
 
 title: Cedar Warman 
 #email: your-email@example.com
-description: on the web at
+description: on the web
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.cedarwarman.com
 twitter_username: cedarwarman
