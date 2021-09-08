@@ -28,7 +28,7 @@ permalink: /research/
 <div class="container is-max-desktop">
 	<div class="columns">
 		<div class="column is-8">
-			To the human eye, pollen is a tiny, featureless dot of yellow, if it can be seen at all. However, hidden within this dot is a complex organism, genetically distinct and independent from its parent. It moves through the world, interacts with the environment, and competes with other pollen to complete the cycle of plant reproduction. I study these processes using molecular, genetic, and computational tools. While working with Dr. John Fowler at Oregon State University, I <a href= "https://doi.org/10.1371/journal.pgen.1008462">identified a series of mutant genes in maize</a> that are associated with problems during reproduction. Experiments with these mutants have contributed to our understanding of fundamental processes in plant reproduction.
+			To the human eye, pollen is a tiny, featureless dot of yellow, if it can be seen at all. However, hidden within this dot is a complex organism, genetically distinct and independent from its parent. It moves through the world, interacts with the environment, and competes with other pollen to complete the cycle of plant reproduction. I study these processes using molecular, genetic, and computational tools. While working with Dr. John Fowler at Oregon State University, <a href= "https://doi.org/10.1371/journal.pgen.1008462">I identified a series of mutant genes in maize</a> that are associated with problems during reproduction. Experiments with these mutants have contributed to our understanding of fundamental processes in plant reproduction.
 		</div>
 		<div class="column is-4">
 			<img src="/img/pollen_in_oil.jpg" alt="Maize pollen grains in oil">
