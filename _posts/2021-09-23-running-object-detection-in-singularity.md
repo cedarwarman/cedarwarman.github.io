@@ -4,8 +4,8 @@ title: "Running the Tensorflow Object Detection API in a Singularity container"
 description:
 author: Cedar Warman
 date: 2020-09-23
-hero_image: 2021-09-22_singularity_tensorflow.jpg
-image: 2021-09-22_singularity_tensorflow.jpg
+hero_image: /img/blog/2021-09-22_singularity_tensorflow.jpg
+image: /img/blog/2021-09-22_singularity_tensorflow.jpg
 tags: singularity object-detection tensorflow hpc
 canonical_url: https://www.cedarwarman.com/2020/09/23/running-object-detection-in-singularity.html
 ---
