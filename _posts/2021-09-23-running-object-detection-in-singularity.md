@@ -190,3 +190,4 @@ Hopefully this guide will help you run the Object Detection API in a Singularity
 
 ## <a href="https://github.com/cedarwarman/object_detection_singularity"><strong>Repository containing all code described in this post.</strong></a>
 
+
