@@ -10,7 +10,7 @@ tags: singularity object-detection tensorflow hpc
 canonical_url: https://www.cedarwarman.com/2020/09/23/running-object-detection-in-singularity.html
 ---
 
-TL;DR <a href ="https://github.com/cedarwarman/object_detection_singularity/">Here’s my Singularity Definition File for the Tensorflow Object Detection API (including X11 forwarding).</a>
+TL;DR <a href ="https://github.com/cedarwarman/object_detection_singularity/">Here’s my Singularity Definition File for the Tensorflow Object Detection API (including X11 forwarding)</a>.
 
 I love the <a href ="https://github.com/tensorflow/models/tree/master/research/object_detection">Tensorflow Object Detection API</a>. It sits on top of Tensorflow and makes powerful object detection models like <a href="https://arxiv.org/abs/1512.03385">ResNet</a>, <a href="https://arxiv.org/abs/1904.07850">CenterNet</a>, and <a  href="https://arxiv.org/abs/1911.09070">EfficientDet</a> (relatively) easy to implement. In the past, I’ve used the API to <a href="https://doi.org/10.1111/tpj.15166">detect fluorescent kernels on maize ears</a>. Unfortunately, setting up the Object Detection API for that project was a pain. I had to manually install the right versions of CUDA/Tensorflow on my cluster and I still worry that the <a href="https://github.com/fowler-lab-osu/EarVision">code</a> is difficult for other people (and maybe even for me) to run. To solve these problems, I’m developing a new object detection pipeline in a containerized environment. Using a container should reduce the effort needed to run the object detection code, make the methods more reproducible, and make it portable between the cluster and the cloud. In addition to setting up the basic container, I’m including the configurations I used to allow X11 forwarding from the cluster. This allows me to do things like view images and to complete the <a href="https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb">example code</a> included with the Object Detection API.
 
@@ -68,7 +68,7 @@ It seems pretty straightforward: it uses the tensorflow:2.2.0-gpu container as a
 
 ## Singularity Definition File
 
-The first line of a Singularity <a href="https://sylabs.io/guides/3.5/user-guide/definition_files.html">“Definition File”</a> defines the bootstrap agent. This tells Singularity how the container will be constructed. Here we tell it to use an image hosted on Docker Hub, then give it the address of the Docker Hub image in the second line (note that we’ve switched to Tensorflow 2.6.0 for compatibility with some of the other packages).
+The first line of a Singularity <a href="https://sylabs.io/guides/3.5/user-guide/definition_files.html">Definition File</a> defines the bootstrap agent. This tells Singularity how the container will be constructed. Here we tell it to use an image hosted on Docker Hub, then give it the address of the Docker Hub image in the second line (note that we’ve switched to Tensorflow 2.6.0 for compatibility with some of the other packages).
 
 ```bash
 Bootstrap: docker
@@ -137,7 +137,7 @@ Finally, I download the model checkpoint for the tutorial and make sure the perm
     chmod -R 777 /opt/models/research/object_detection/test_data/checkpoint
 ```
 
-The next section of the Definition File is called `%environment`. This is where you put environmental variables that will be set when you run the container. The original Dockerfile has `TF_CPP_MIN_LOG_LEVEL` set to `3`, so I’ll include it here as well. This Tensorflow option suppresses log outputs. `0` logs all messages, `1` omits `INFO`, `1` omits `INFO` and `WARNING`, and `3` omits `INFO`, `WARNING`, and `ERROR`. Since I want to see error messages for troubleshooting, I’ll comment it out.
+The next section of the Definition File is called `%environment`. This is where you put environmental variables that will be set when you run the container. The original Dockerfile has `TF_CPP_MIN_LOG_LEVEL` set to `3`, so I’ll include it here as well. This Tensorflow option suppresses log outputs. `0` logs all messages, `1` omits `INFO`, `2` omits `INFO` and `WARNING`, and `3` omits `INFO`, `WARNING`, and `ERROR`. Since I want to see error messages for troubleshooting, I’ll comment out this line.
 
 ```bash
 %environment
@@ -182,9 +182,9 @@ To run the demo, first sign in to your HPC environment with `ssh` and option `-X
 singularity exec --nv -B ~/.Xauthority ./singularity/tf_od.sif python3 ./python/eager_few_shot_od_training_tf2_singularity.py &>/dev/null &
 ```
 
-The above command runs the demo using the newly created Singularity container. The `--nv` option properly configures Nvidia GPUs, while the `-B` option allows X11 forwarding. Here I’ve silenced output messages with `&>/dev/null` and put the process in the background with the final `&`. With the process in the background you can monitor GPU activity with `nvtop` or `nvidia-smi`. The demo displays images at several steps through X11 and finally outputs frames with bounding boxes and an animated gif. On an Nvidia V100S the training and inference lasted a couple minutes.
+The above command runs the demo using the newly created Singularity container. The `--nv` option properly configures the container for Nvidia GPUs, while the `-B` option adds a file to the container that's  necessary for X11 forwarding. Here I’ve silenced output messages with `&>/dev/null` and put the process in the background with the final `&`. With the process in the background you can monitor GPU activity with `nvtop` or `nvidia-smi`. The demo displays images at several steps through X11 and finally outputs images with bounding boxes and an animated gif. The training and inference took less than five minutes using an Nvidia V100S GPU.
 
-## Conclusions
+## Conclusion
 
 Hopefully this guide will help you run the Object Detection API in a Singularity container. While all clusters are unique, my goal is to at least provide a starting point from running containerized object detection. If you have any questions please feel free to reach out!
 
