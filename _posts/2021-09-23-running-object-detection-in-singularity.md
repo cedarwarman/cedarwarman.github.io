@@ -10,7 +10,7 @@ tags: singularity object-detection tensorflow hpc
 canonical_url: https://www.cedarwarman.com/2020/09/23/running-object-detection-in-singularity.html
 ---
 
-TL;DR <a href ="https://github.com/cedarwarman/object_detection_singularity/">Here’s my Singularity recipe for the Tensorflow Object Detection API (including X11 forwarding).</a>
+TL;DR <a href ="https://github.com/cedarwarman/object_detection_singularity/">Here’s my Singularity Definition File for the Tensorflow Object Detection API (including X11 forwarding).</a>
 
 I love the <a href ="https://github.com/tensorflow/models/tree/master/research/object_detection">Tensorflow Object Detection API</a>. It sits on top of Tensorflow and makes powerful object detection models like <a href="https://arxiv.org/abs/1512.03385">ResNet</a>, <a href="https://arxiv.org/abs/1904.07850">CenterNet</a>, and <a  href="https://arxiv.org/abs/1911.09070">EfficientDet</a> (relatively) easy to implement. In the past, I’ve used the API to <a href="https://doi.org/10.1111/tpj.15166">detect fluorescent kernels on maize ears</a>: 
 
@@ -71,7 +71,7 @@ It seems pretty straightforward: it uses the tensorflow:2.2.0-gpu container as a
 
 ## Singularity recipe (Definition File)
 
-The first line of a Singularity recipe (officially <a href="https://sylabs.io/guides/3.5/user-guide/definition_files.html">“Definition File”</a>) defines the bootstrap agent. This tells Singularity how the container will be constructed. Here we tell it to use an image hosted on Docker Hub, then give it the address of the Docker Hub image in the second line.
+The first line of a Singularity recipe (officially <a href="https://sylabs.io/guides/3.5/user-guide/definition_files.html">“Definition File”</a>) defines the bootstrap agent. This tells Singularity how the container will be constructed. Here we tell it to use an image hosted on Docker Hub, then give it the address of the Docker Hub image in the second line (note that we’ve switched to Tensorflow 2.6.0 for compatibility with some of the other packages).
 
 ```bash
 Bootstrap: docker
