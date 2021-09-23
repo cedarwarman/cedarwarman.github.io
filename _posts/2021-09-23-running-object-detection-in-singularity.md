@@ -16,15 +16,16 @@ I love the <a href ="https://github.com/tensorflow/models/tree/master/research/o
 
 <div class="container is-max-desktop">
 	<div class="columns">
-		<div class="column is-4">
+		<div class="column is-2">
 		</div>
-		<div class="column is-4">
+		<div class="column is-8">
 			<img src="/img/blog/2021-08-27_ear_scanner.jpg" alt="Maize ear with fluorescent kernels. Right side shows bounding boxes around kernels.">
 		</div>
-		<div class="column is-4">
+		<div class="column is-2">
 		</div>
 	</div>
 </div>
+
 
 Unfortunately, setting up the Object Detection API for that project was a pain. I had to manually install the right versions of CUDA/Tensorflow on my cluster and I still worry that the <a href="https://github.com/fowler-lab-osu/EarVision">code</a> is difficult for other people (and maybe even for me) to run. To solve these problems, I’m developing a new object detection pipeline in a containerized environment. Using a container should reduce the effort needed to run the object detection code, make the methods more reproducible, and make it portable between the cluster and the cloud. In addition to setting up the basic container, I’m including the configurations I used to allow X11 forwarding from the cluster. This allows me to do things like view images and to complete the <a href="https://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb">example colab</a> included with the Object Detection API.
 
