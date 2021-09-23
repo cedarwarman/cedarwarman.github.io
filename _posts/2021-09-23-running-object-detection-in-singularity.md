@@ -188,5 +188,5 @@ The above command runs the demo using the newly created Singularity container. T
 
 Hopefully this guide will help you run the Object Detection API in a Singularity container. While all clusters are unique, my goal is to at least provide a starting point from running containerized object detection. If you have any questions please feel free to reach out!
 
-<a href="https://github.com/cedarwarman/object_detection_singularity">Repository containing all code described in this post.</a>
+<a href="https://github.com/cedarwarman/object_detection_singularity"><strong>Repository containing all code described in this post.</strong></a>
 
