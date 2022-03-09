@@ -12,7 +12,7 @@ canonical_url: https://www.cedarwarman.com/2022/03/09/building-a-cloud-connected
 
 Now that you can <a href ="https://www.cedarwarman.com/2020/08/09/connecting-to-campus-wifi.html">connect your Raspberry Pi Zero to campus Wifi</a>, what to do with it? How about a simple cloud-connected temperature and humidity sensor? For this project, I combined a Raspberry Pi Zero W with a DHT22 sensor. The DHT22 is a cheap, widely available sensor that can measure temperature with an accuracy of ~0.5 °C and humidity with an accuracy of ~5%. You can read about the DHT22 in wonderful detail <a href ="https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html">here</a>.
 
-## Part list.
+## Part list
 <div class="container is-max-desktop has-text-centered">
 <table class="table is-hoverable">
 <thead>
@@ -71,7 +71,7 @@ As with most sensors, the DHT22 can be connected to the Raspberry Pi through the
 <div class="container is-max-desktop">
 	<div class="columns">
 		<div class="column is-4">
-			<img src="img/blog/2022-03-09_DHT22_RPi0.jpg">
+			<img src="/img/blog/2022-03-09_DHT22_RPi0.jpg">
 		</div>
 	</div>
 </div>
@@ -127,7 +127,7 @@ A limiting factor of the sensor as described above is the inability to have long
 <div class="container is-max-desktop">
     <div class="columns">
         <div class="column is-4">
-            <img src="img/blog/2022-03-09_DHT22_level_shifter.jpg">
+            <img src="/img/blog/2022-03-09_DHT22_level_shifter.jpg">
         </div>
     </div>
 </div>
@@ -138,7 +138,7 @@ Now that there is sensor data being constantly uploaded to the cloud, what do yo
 <div class="container is-max-desktop">
     <div class="columns">
         <div class="column is-4">
-            <img src="img/blog/2022-03-09_shiny_interface.jpg">
+            <img src="/img/blog/2022-03-09_shiny_interface.jpg">
         </div>
     </div>
 </div>
