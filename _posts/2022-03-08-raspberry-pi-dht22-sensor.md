@@ -10,7 +10,9 @@ tags: raspberry-pi sensors dht22 linux
 canonical_url: https://www.cedarwarman.com/2022/03/09/building-a-cloud-connected-temp-and-humidity-sensor.html
 ---
 
-Now that you can <a href ="https://www.cedarwarman.com/2020/08/09/connecting-to-campus-wifi.html">connect your Raspberry Pi Zero to campus Wifi</a>, what to do with it? How about a simple cloud-connected temperature and humidity sensor? For this project, I combined a Raspberry Pi Zero W with a DHT22 sensor. The DHT22 is a cheap, widely available sensor that can measure temperature with an accuracy of ~0.5 °C and humidity with an accuracy of ~5%. You can read about the DHT22 in wonderful detail <a href ="https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html">here</a>.
+Now that you can <a href="https://www.cedarwarman.com/2021/08/09/connecting-to-campus-wifi.html">connect your Raspberry Pi Zero to campus Wifi</a>, what to do with it? How about a simple cloud-connected temperature and humidity sensor? For this project, I combined a Raspberry Pi Zero W with a DHT22 sensor. The DHT22 is a cheap, widely available sensor that can measure temperature with an accuracy of ~0.5 °C and humidity with an accuracy of ~5%. You can read about the DHT22 in wonderful detail <a href="https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html">here</a>.
+
+This post was inspired by several previous blog posts, including <a href="https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/">this one describing how to run the DHT22 with a Raspberry Pi</a> and <a href="https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/connecting-to-googles-docs-python3">this one describing how to upload data from the sensor to Google Sheets</a>.
 
 ## Part list
 <div class="container is-max-desktop has-text-centered">
@@ -36,24 +38,24 @@ Now that you can <a href ="https://www.cedarwarman.com/2020/08/09/connecting-to-
 	<tr>
 		<td><a href ="https://www.amazon.com/Charger-X-Universal-Adapter-Samsung/dp/B0794WT57Y/">USB wall charger</a></td>
 		<td>$3.25</td>
-		<td></td>
+		<td>Most wall chargers will work</td>
 	</tr>
 	<tr>
 		<td><a href ="https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ/">USB cable</a></td>
 		<td>$3.00</td>
-		<td></td>
+		<td>Almost any cable works</td>
 	</tr>
 	<tr>
 		<td><a href ="https://www.amazon.com/PNY-Elite-microSDHC-Memory-3-Pack/dp/B07YXJM282/">Micro SD card</a></td>
 		<td>$6.00</td>
-		<td></td>
+		<td>32GB is plenty</td>
 	</tr>
 	<tr>
 		<td><a href ="https://www.adafruit.com/product/3471">Case</a></td>
 		<td>$6.00</td>
-		<td>Optional</td>
+		<td>Optional (I like these Pibow cases)</td>
 	</tr>
-	<tr>
+	<tr class="is-selected">
 		<td><strong>Total</strong></td>
 		<td><strong>$38.25</strong></td>
 		<td></td>
@@ -137,7 +139,7 @@ A limiting factor of the sensor as described above is the inability to have long
 </div>
 
 ### R Shiny interface
-Now that there is sensor data being constantly uploaded to the cloud, what do you do with it? The simplest option is to download the data for plotting and visualization. However, this data can also be the perfect foundation for a simple R Shiny app. In my lab, I visualize the data from our sensors using <a href ="https://viz.datascience.arizona.edu/palanivelu-lab-sensors/">this app</a>. The app pulls data from Google sheets for each sensor and visualizes temperature and humidity. <a href ="https://github.com/cedarwarman/shiny_pi_sensors/">Here’s the Github repository</a> if you want to see more.
+Now that there is sensor data being constantly uploaded to the cloud, what do you do with it? The simplest option is to download the data for plotting and visualization. However, this data can also be the perfect foundation for a simple R Shiny app. I built <a href ="https://viz.datascience.arizona.edu/palanivelu-lab-sensors/">this app</a> to visualize the data from our lab sensors. The app pulls data from Google sheets for each sensor and visualizes temperature and humidity. <a href ="https://github.com/cedarwarman/shiny_pi_sensors/">Here’s the Github repository</a> if you want to see more.
 
 <div class="container is-max-desktop">
     <div class="columns">
