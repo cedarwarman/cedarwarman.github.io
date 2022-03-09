@@ -55,7 +55,7 @@ This post was inspired by several previous blog posts, including <a href="https:
 		<td>$6.00</td>
 		<td>Optional (I like these Pibow cases)</td>
 	</tr>
-	<tr class="has-background-info-light">
+	<tr class="has-background-primary-light">
 		<td><strong>Total</strong></td>
 		<td><strong>$38.25</strong></td>
 		<td></td>
