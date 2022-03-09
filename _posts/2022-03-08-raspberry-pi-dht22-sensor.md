@@ -144,5 +144,5 @@ Now that there is sensor data being constantly uploaded to the cloud, what do yo
 </div>
 
 ### Conclusion
-Hopefully this gives you a taste of what is possible with a few simple parts and some basic wiring. These building blocks should empower you to build a wide variety of sensors for your research projects!
+Hopefully this gives you a taste of what is possible with a few simple parts and some basic wiring. These building blocks should empower you to build a wide variety of sensors for your research projects. Have fun!
 
