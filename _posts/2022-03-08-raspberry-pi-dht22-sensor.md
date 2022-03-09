@@ -81,10 +81,11 @@ As with most sensors, the DHT22 can be connected to the Raspberry Pi through the
 	</div>
 </div>
 
+<br>
 In this case, the DHT22 power is connected to the Raspberry Pi 3v3 power (orange), the DHT22 data is connected to GPIO 4 (green), and the DHT22 ground is connected to the Raspberry Pi ground (pin 6, black).
 
 ## Gathering data and pushing to the cloud
-Now that the sensor is connected to the Raspberry Pi, you should be able to begin reading data. First, install the required packages. I’ll be running it with Python 3 and the <a href ="https://github.com/adafruit/Adafruit_Python_DHT">Adafruit_DHT library</a>. While this library is depreciated, it seems to be more reliable on the Raspberry Pi Zero than the newer <a href ="https://github.com/adafruit/Adafruit_CircuitPython_DHT">CircuitPython</a> library, but the newer library is also an option. For uploading to Google Sheets I’ll use the <a href ="https://docs.gspread.org/en/latest/">gspread</a> library.
+After connecting the sensor to the Raspberry Pi, you should be able to begin reading data. First, install the required packages. I’ll be running it with Python 3 and the <a href ="https://github.com/adafruit/Adafruit_Python_DHT">Adafruit_DHT library</a>. While this library is depreciated, it seems to be more reliable on the Raspberry Pi Zero than the newer <a href ="https://github.com/adafruit/Adafruit_CircuitPython_DHT">CircuitPython</a> library, but the newer library is also an option. For uploading to Google Sheets I’ll use the <a href ="https://docs.gspread.org/en/latest/">gspread</a> library.
 
 ### Installation
 ```bash
@@ -126,7 +127,7 @@ At this point we can immediately start the service with `sudo systemctl start pi
 
 At this point, the sensor is complete! Try testing it on a local network first, which allows simple trouble shooting with `ssh`. To troubleshoot on a university network, I’ve had good luck with <a href ="https://remote.it/">remote.it</a>, but there are lots of good options for headless logins.
 
-### Longer wire runs
+## Longer wire runs
 A limiting factor of the sensor as described above is the inability to have long distances between the Raspberry Pi and the sensor. More than a few feet of wire degrades the signal and can cause data loss. This is especially important when running multiple sensors in different locations with a single Raspberry Pi. Longer runs are possible, but required two considerations. First, use a high-quality shielded cable to reduce the signal loss. Ethernet cables are a good option for longer runs, particularly those with twisted wires and shielding. Second, run the DHT22 at 5v instead of 3.3v. The sensor can run at both voltages and the extra power improves reliability over long distances. The Raspberry Pi can supply both 3.3v and 5v through different pins on the GPIO. However, the data pins read signals at 3.3v. To avoid overloading the data pins, convert the 5v signal from the DHT22 to 3.3v using a level shifter. I used <a href ="https://www.amazon.com/gp/product/B07LG646VS/">this one</a> (KeeYees I2C logic level converter), but there are many options. As shown below, the DHT22 receives power from a 5v GPIO pin, then the data signal is converted from 5v to 3.3v using the HV1 and LV1 pins of the level shifter. The level shifter is also connected to 3.3v, 5v, and ground pins on the GPIO. In this case, the ethernet cable would be wired to DHT22 while the level shifter would remain close to the Raspberry Pi. 
 
 <div class="container is-max-desktop">
@@ -139,7 +140,7 @@ A limiting factor of the sensor as described above is the inability to have long
     </div>
 </div>
 
-### R Shiny interface
+## R Shiny interface
 Now that there is sensor data being constantly uploaded to the cloud, what do you do with it? The simplest option is to download the data for plotting and visualization. However, this data can also be the perfect foundation for a simple R Shiny app. I built <a href ="https://viz.datascience.arizona.edu/palanivelu-lab-sensors/">this app</a> to visualize the data from our lab sensors. The app pulls data from Google sheets for each sensor and visualizes temperature and humidity. <a href ="https://github.com/cedarwarman/shiny_pi_sensors/">Here’s the Github repository</a> if you want to see more.
 
 <div class="container is-max-desktop">
@@ -150,6 +151,6 @@ Now that there is sensor data being constantly uploaded to the cloud, what do yo
     </div>
 </div>
 
-### Conclusion
+## Conclusion
 Hopefully this gives you a taste of what is possible with a few simple parts and some basic wiring. These building blocks should empower you to build a wide variety of sensors for your research projects. Have fun!
 
