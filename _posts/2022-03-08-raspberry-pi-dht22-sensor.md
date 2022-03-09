@@ -70,9 +70,11 @@ As with most sensors, the DHT22 can be connected to the Raspberry Pi through the
 
 <div class="container is-max-desktop">
 	<div class="columns">
+		<div class="column is-4"></div>
 		<div class="column is-4">
 			<img src="/img/blog/2022-03-09_DHT22_RPi0.jpg">
 		</div>
+		<div class="column is-4"></div>
 	</div>
 </div>
 
@@ -126,9 +128,11 @@ A limiting factor of the sensor as described above is the inability to have long
 
 <div class="container is-max-desktop">
     <div class="columns">
+		<div class="column is-4"></div>
         <div class="column is-4">
             <img src="/img/blog/2022-03-09_DHT22_level_shifter.jpg">
         </div>
+		<div class="column is-4"></div>
     </div>
 </div>
 
@@ -137,7 +141,7 @@ Now that there is sensor data being constantly uploaded to the cloud, what do yo
 
 <div class="container is-max-desktop">
     <div class="columns">
-        <div class="column is-4">
+        <div class="column is-12">
             <img src="/img/blog/2022-03-09_shiny_interface.jpg">
         </div>
     </div>
