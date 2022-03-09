@@ -3,7 +3,7 @@ layout: post
 title: "Building a cloud-connected temperature and humidity sensor"
 description:
 author: Cedar Warman
-date: 2022-09-03
+date: 2022-08-03
 hero_image: /img/blog/2022-03-09_rpi_dht22_cover.jpg
 image: /img/blog/2022-03-09_rpi_dht22_cover.jpg
 tags: raspberry-pi sensors dht22 linux
