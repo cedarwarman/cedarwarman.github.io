@@ -55,7 +55,7 @@ This post was inspired by several previous blog posts, including <a href="https:
 		<td>$6.00</td>
 		<td>Optional (I like these Pibow cases)</td>
 	</tr>
-	<tr class="is-selected">
+	<tr class="has-background-info-light">
 		<td><strong>Total</strong></td>
 		<td><strong>$38.25</strong></td>
 		<td></td>
@@ -65,6 +65,7 @@ This post was inspired by several previous blog posts, including <a href="https:
 
 </div>
 
+<br>
 Note: The biggest downside to this project is that it’s always a little bit of a pain to get more than 1 Raspberry Pi Zero W. Even before the current supply chain collapse, Raspberry Pi Zero Ws were almost always limited to 1 per order from the major Raspberry Pi suppliers. The best method I’ve found is to order 2 every time I buy something from Adafruit, <a href ="https://www.adafruit.com/product/3400">1 with the bare board</a> and <a href ="https://www.adafruit.com/product/3708">1 with a pre-soldered header</a>. And make sure to buy a header to solder on the bare board. <a href ="https://www.adafruit.com/product/3907">These ones</a> are color-coded. I’ve listed the Raspberry Pi Zero W price above as $14, this is for the with-header model, but keep in mind shipping can almost double the price if you have to order a lot of them individually. Everything should also work with a Raspberry Pi Zero 2 W or any of the other Raspberry Pi computers.
 
 ## Connecting the sensor(s)
