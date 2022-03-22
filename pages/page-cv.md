@@ -173,7 +173,7 @@ permalink: /cv/
             </div>
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>C. Warman</strong>. Hot tomato pollen is different, but how? North American Plant Phenotyping Network Annual Conference, Athens, GA, USA. February 2022.
+                <strong>C. Warman.</strong> Hot tomato pollen is different, but how? North American Plant Phenotyping Network Annual Conference, Athens, GA, USA. February 2022.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2022
