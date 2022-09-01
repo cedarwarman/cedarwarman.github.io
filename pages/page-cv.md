@@ -236,7 +236,7 @@ permalink: /cv/
         <div class="column is-9">
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>C. Warman,</strong> Sara McKinley, and Ravishankar Palanivelu. Defining the genetic basis of reproductive heat tolerance in tomato through high-throughput pollen phenotyping, genome-wide association, and predictive modeling. National Science Foundation Plant Genome Research Program Annual Meeting, September 2022.
+                <strong>C. Warman,</strong> S. McKinley, and R. Palanivelu. Defining the genetic basis of reproductive heat tolerance in tomato through high-throughput pollen phenotyping, genome-wide association, and predictive modeling. National Science Foundation Plant Genome Research Program Annual Meeting, September 2022.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2022
