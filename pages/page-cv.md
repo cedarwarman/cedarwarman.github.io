@@ -176,7 +176,6 @@ permalink: /cv/
                 <strong>C. Warman.</strong> Hot tomato pollen is different, but how? North American Plant Phenotyping Network Annual Conference, Athens, GA, USA. February 2022.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
-                2022
                 </div>
             </div>
         	<div class="columns is-mobile is-centered mb-0">
@@ -235,6 +234,14 @@ permalink: /cv/
             </div>
         </div>
         <div class="column is-9">
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman,</strong> Sara McKinley, and Ravishankar Palanivelu. Defining the genetic basis of reproductive heat tolerance in tomato through high-throughput pollen phenotyping, genome-wide association, and predictive modeling. National Science Foundation Plant Genome Research Program Annual Meeting, September 2022.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2022
+                </div>
+            </div>
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
                 J. E. Fowler, Z. Vejlupkova, <strong>C. Warman,</strong> and L. Zhou. Green kernels: The Dooner/Du Ds-GFP population enables a variety of research and outreach applications. 63rd Maize Genetics Conference, Virtual, March 2021.
