@@ -15,8 +15,8 @@ permalink: /cv/
 <div class="container is-max-desktop has-text-centered">
 	<div class="columns">
 		<div class="column has-text-left">
-			<p class="title is-2 mb-5">Cedar Dale Warman</p>
-			<p class="subtitle is-4 mb-0"><i>Postdoctoral fellow</i></p>
+			<p class="title is-2 mb-5">Cedar Warman</p>
+			<p class="subtitle is-4 mb-0"><i>Research Scientist</i></p>
 			<p class="my-2">School of Plant Sciences<br>
 			University of Arizona<br>
 			Tucson, AZ, USA</p>
