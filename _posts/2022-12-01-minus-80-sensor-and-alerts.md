@@ -12,7 +12,7 @@ canonical_url: https://www.cedarwarman.com/2022/12/06/minus-80-sensor-and-alerts
 
 Do you trust your -80 freezer? I got tired of wondering when mine would fail, so I built a temperature sensor that emails me when there’s trouble. I made an R Shiny app to go along with it for easy visualization of freezer temperatures from any device. Here’s how!
 
-## Part list.
+## Part list
 <div class="container is-max-desktop has-text-centered">
 <table class="table is-hoverable">
 <thead>
