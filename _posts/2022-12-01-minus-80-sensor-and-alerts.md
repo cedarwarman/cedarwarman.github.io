@@ -3,7 +3,7 @@ layout: post
 title: "Monitor -80 freezer temperatures and send email alerts with a Raspberry Pi"
 description:
 author: Cedar Warman
-date: 2022-12-01
+date: 2022-12-06
 hero_image: /img/blog/2022-12-06_cover.jpg
 image: /img/blog/2022-12-06_cover.jpg
 tags: raspberry-pi sensors thermocouple minus-80-freezer led-matrix
@@ -30,7 +30,7 @@ Do you trust your -80 freezer? I got tired of wondering when mine would fail, so
 	</tr>
 	<tr>
 		<td><a href ="https://evosensors.com/products/t1x-wbwx-24g-ex-0-25-pfxx-40-stwl">Thermocouple</a></td>
-		<td>$11.50</td>
+		<td>$12.00</td>
 		<td>24-gauge Type T</td>
 	</tr>
 	<tr>
@@ -45,7 +45,7 @@ Do you trust your -80 freezer? I got tired of wondering when mine would fail, so
 	</tr>
 	<tr>
 		<td><a href ="https://www.amazon.com/Charger-X-Universal-Adapter-Samsung/dp/B0794WT57Y/">USB wall charger</a></td>
-		<td>$3.50</td>
+		<td>$3.25</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -55,7 +55,7 @@ Do you trust your -80 freezer? I got tired of wondering when mine would fail, so
 	</tr>
 	<tr>
 		<td><a href ="https://www.amazon.com/PNY-Elite-microSDHC-Memory-3-Pack/dp/B07YXJM282/">Micro SD card</a></td>
-		<td>$6.00</td>
+		<td>$5.00</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -65,12 +65,11 @@ Do you trust your -80 freezer? I got tired of wondering when mine would fail, so
 	</tr>
 	<tr>
 		<td><strong>Total</strong></td>
-		<td><strong>$70.80</strong></td>
+		<td><strong>$70.05</strong></td>
 		<td></td>
 	</tr>
 </tbody>
 </table>
-m
 </div>
 
 ## Thermocouple and display
@@ -109,14 +108,6 @@ Next, navigate through the config menus to `Interfacing Options` and then `SPI`.
 </div>
 
 Writing two SPI devices gets a little convoluted. Two of the <a href ="https://pinout.xyz/pinout/spi">Raspberry Pi GPIO pins</a> are shared by the two devices (SPI clock and peripheral in). For these two pins, I made “Y” wires by soldering two wires to a single wire. The two ends go to the two devices, while the single end goes to the Raspberry Pi. The rest of the wires are not shared. The thermocouple breakout board is run at 3.3v and the LED matrix is run at 5v. The two devices can be wired to two separate ground pins on the GPIO. The two SPI chip select (CS) pins go to <a href ="https://pinout.xyz/pinout/spi">GPIO 8 and 7</a> by default. However, for whatever reason I was not able to get the thermocouple breakout board to run on any pin but the default adafruit library pin GPIO 5, even after changing the designated pin in the software with `cs = digitalio.DigitalInOut(board.D5)`. GPIO 5 seems to work fine though, so I left it. Finally, the thermocouple board has an additional SPI peripheral out pin because it sends data back to the Raspberry Pi (the LED matrix only receives data).
-
-<div class="container is-max-desktop">
-    <div class="columns">
-        <div class="column is-8">
-            <img src="/img/blog/2022-12-06_thermocouple_pinout_detail.jpg">
-        </div>
-    </div>
-</div>
 
 ## Software
 ### <a href ="https://github.com/cedarwarman/Raspberry_Pi_freezer_sensor_blog_post">Here is a repo with all the code used in this project</a>
@@ -186,7 +177,7 @@ I like to check in on the freezer, so I made a simply <a href ="https://shiny.rs
 
 <div class="container is-max-desktop">
     <div class="columns">
-        <div class="column is-10">
+        <div class="column is-12">
             <img src="/img/blog/2022-12-06_shiny_interface.jpg">
         </div>
     </div>
