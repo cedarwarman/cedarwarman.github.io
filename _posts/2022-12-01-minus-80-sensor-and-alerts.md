@@ -72,13 +72,13 @@ Do you trust your -80 freezer? I got tired of wondering when mine would fail, so
 </table>
 </div>
 
-## Thermocouple and display
-At the heart of this system is a Type T thermocouple driven by an Adafruit MAX31856 thermocouple amplifier breakout board. Thermocouples come in lots of different types, but a Type T is commonly used for this application because of its ability to measure low temperatures and resist moisture. For this project, I used an SLE Type T, which should have an accuracy of 0.5°C or 0.4%, whichever is greater. This is a little more accurate than the more common Type K, but a Type K would also work fine. The Adafruit MAX31856 breakout board can drive several types of thermocouples; if you go with a Type K, you can use the slightly cheaper MAX31855K breakout board.
-
 ## Preparing the Raspberry Pi
 I used a Raspberry Pi Zero W for this build, but any of the Raspberry Pi single-board computers should work fine. We’ll run it headless, so set up the Pi by <a href ="https://www.raspberrypi.com/documentation/computers/getting-started.html">installing Raspberry Pi OS</a> on an SD card, enabling ssh, and configuring your network. I wrote about these steps in more detail, including connecting to the troublesome WiFi at University of Arizona, in <a href ="https://www.cedarwarman.com/2021/08/09/connecting-to-campus-wifi.html">this blog post</a>.
 
-## Connecting the thermocouple and display
+## Thermocouple and display
+At the heart of this system is a Type T thermocouple driven by an Adafruit MAX31856 thermocouple amplifier breakout board. Thermocouples come in lots of different types, but a Type T is commonly used for this application because of its ability to measure low temperatures and resist moisture. For this project, I used an SLE Type T, which should have an accuracy of 0.5°C or 0.4%, whichever is greater. This is a little more accurate than the more common Type K, but a Type K would also work fine. The Adafruit MAX31856 breakout board can drive several types of thermocouples; if you go with a Type K, you can use the slightly cheaper MAX31855K breakout board.
+
+While it’s not necessary for the alarm system, having a display on the freezer that shows the current temperature is fun and can be a useful backup to the freezer’s own display. I used an LED matrix driven by a MAX7219 breakout board. These little displays are pretty <a href ="https://www.adafruit.com/category/326">ubiquitous</a>. They’re bright, modular, and easy to control.
 
 <div class="container is-max-desktop">
     <div class="columns">
