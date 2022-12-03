@@ -3,7 +3,7 @@ layout: post
 title: "Monitor -80 freezer temperatures and send email alerts with a Raspberry Pi"
 description:
 author: Cedar Warman
-date: 2022-12-06
+date: 2022-12-01
 hero_image: /img/blog/2022-12-06_cover.jpg
 image: /img/blog/2022-12-06_cover.jpg
 tags: raspberry-pi sensors thermocouple minus-80-freezer led-matrix
