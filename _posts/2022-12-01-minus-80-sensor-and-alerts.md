@@ -173,7 +173,7 @@ I’ve noticed a small problem with my MAX7219 LED matrix display: once every fe
 ```
 
 ## Monitor remotely with R Shiny app
-I like to check in on the freezer, so I made a simply <a href ="https://shiny.rstudio.com/">R Shiny</a> app to visualize the data remotely. The app imports the data from the Google sheet and makes an interactive plot with <a href ="https://plotly.com/r/">Plotly</a>. You can try out the app here, and I’ve included all the code I used to make it in the repo linked above.
+I like to check in on the freezer, so I made a simply <a href ="https://shiny.rstudio.com/">R Shiny</a> app to visualize the data remotely. The app imports the data from the Google sheet and makes an interactive plot with <a href ="https://plotly.com/r/">Plotly</a>. You can try out the app <a href ="https://viz.datascience.arizona.edu/freezer/">here</a>, and I’ve included all the code I used to make it in the repo linked above.
 
 <div class="container is-max-desktop">
     <div class="columns">
