@@ -13,7 +13,7 @@ canonical_url: https://www.cedarwarman.com/2022/12/06/minus-80-sensor-and-alerts
 Do you trust your -80 freezer? I got tired of wondering when mine would fail, so I built a temperature sensor that emails me when there’s trouble. I made an R Shiny app to go along with it for easy visualization of freezer temperatures from any device. Here’s how!
 
 ## Part list
-<div class="container is-max-desktop has-text-centered">
+<div class="container is-max-desktop">
 <table class="table is-hoverable">
 <thead>
 <tr>
@@ -98,6 +98,7 @@ sudo raspi-config
 Next, navigate through the config menus to `Interfacing Options` and then `SPI`. Click `Yes` when asked to enable the SPI interface, then reboot the Pi. 
 
 ### Wiring
+Writing two SPI devices gets a little convoluted. Two of the <a href ="https://pinout.xyz/pinout/spi">Raspberry Pi GPIO pins</a> are shared by the two devices (SPI clock and peripheral in). For these two pins, I made “Y” wires by soldering two wires to a single wire. The two ends go to the two devices, while the single end goes to the Raspberry Pi. The rest of the wires are not shared. The thermocouple breakout board is run at 3.3v and the LED matrix is run at 5v. The two devices can be wired to two separate ground pins on the GPIO. The two SPI chip select (CS) pins go to <a href ="https://pinout.xyz/pinout/spi">GPIO 8 and 7</a> by default. However, for whatever reason I was not able to get the thermocouple breakout board to run on any pin but the default adafruit library pin GPIO 5, even after changing the designated pin in the software with `cs = digitalio.DigitalInOut(board.D5)`. GPIO 5 seems to work fine though, so I left it. Finally, the thermocouple board has an additional SPI peripheral out pin because it sends data back to the Raspberry Pi (the LED matrix only receives data).
 
 <div class="container is-max-desktop">
     <div class="columns">
@@ -106,8 +107,6 @@ Next, navigate through the config menus to `Interfacing Options` and then `SPI`.
         </div>
     </div>
 </div>
-
-Writing two SPI devices gets a little convoluted. Two of the <a href ="https://pinout.xyz/pinout/spi">Raspberry Pi GPIO pins</a> are shared by the two devices (SPI clock and peripheral in). For these two pins, I made “Y” wires by soldering two wires to a single wire. The two ends go to the two devices, while the single end goes to the Raspberry Pi. The rest of the wires are not shared. The thermocouple breakout board is run at 3.3v and the LED matrix is run at 5v. The two devices can be wired to two separate ground pins on the GPIO. The two SPI chip select (CS) pins go to <a href ="https://pinout.xyz/pinout/spi">GPIO 8 and 7</a> by default. However, for whatever reason I was not able to get the thermocouple breakout board to run on any pin but the default adafruit library pin GPIO 5, even after changing the designated pin in the software with `cs = digitalio.DigitalInOut(board.D5)`. GPIO 5 seems to work fine though, so I left it. Finally, the thermocouple board has an additional SPI peripheral out pin because it sends data back to the Raspberry Pi (the LED matrix only receives data).
 
 ## Software
 ### <a href ="https://github.com/cedarwarman/Raspberry_Pi_freezer_sensor_blog_post">Here is a repo with all the code used in this project</a>
