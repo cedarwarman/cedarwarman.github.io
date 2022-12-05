@@ -172,7 +172,7 @@ I like to check in on the freezer, so I made a simply <a href ="https://shiny.rs
 <div class="container is-max-desktop">
     <div class="columns">
         <div class="column is-12">
-            <iframe height="500" width="100%" frameborder="no" src="https://viz.datascience.arizona.edu/freezer/"> </iframe>
+            <img src="/img/blog/2022-12-06_shiny_interface.jpg">
         </div>
     </div>
 </div>
