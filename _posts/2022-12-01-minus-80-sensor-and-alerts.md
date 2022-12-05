@@ -59,13 +59,8 @@ Do you trust your -80 freezer? I got tired of wondering when mine would fail, so
 		<td></td>
 	</tr>
 	<tr>
-		<td><a href ="https://www.adafruit.com/product/3471">Case</a></td>
-		<td>$6.00</td>
-		<td>Optional</td>
-	</tr>
-	<tr>
 		<td><strong>Total</strong></td>
-		<td><strong>$70.05</strong></td>
+		<td><strong>$64.05</strong></td>
 		<td></td>
 	</tr>
 </tbody>
@@ -78,7 +73,7 @@ I used a Raspberry Pi Zero W for this build, but any of the Raspberry Pi single-
 ## Thermocouple and display
 At the heart of this system is a Type T thermocouple driven by an Adafruit MAX31856 thermocouple amplifier breakout board. Thermocouples come in lots of different types, but a Type T is commonly used for this application because of its ability to measure low temperatures and resist moisture. For this project, I used an SLE Type T, which should have an accuracy of 0.5°C or 0.4%, whichever is greater. This is a little more accurate than the more common Type K, but a Type K would also work fine. The Adafruit MAX31856 breakout board can drive several types of thermocouples; if you go with a Type K, you can use the slightly cheaper MAX31855K breakout board.
 
-While it’s not necessary for the alarm system, having a display on the freezer that shows the current temperature is fun and can be a useful backup to the freezer’s own display. I used an LED matrix driven by a MAX7219 breakout board. These little displays are pretty <a href ="https://www.adafruit.com/category/326">ubiquitous</a>. They’re bright, modular, and easy to control.
+While it’s not necessary for the alarm system, having a display on the freezer that shows the current temperature is fun and can be a useful backup to the freezer’s own display. I used an LED matrix driven by a MAX7219 breakout board. These little displays are <a href ="https://www.adafruit.com/category/326">ubiquitous</a>. They’re bright, modular, and easy to control.
 
 <div class="container is-max-desktop">
     <div class="columns">
@@ -145,7 +140,7 @@ sudo systemctl enable freezer.service
 The second script, `freezer_alarm.py` watches the Google sheet containing the freezer temperature readings. I run this script from a separate computer in case I lose power to the freezer, which is on the same circuit as the Raspberry Pi that monitors it. This script can be run from anywhere with an internet connection because it uses the Google sheet created by `read_freezer_thermocouple.py`. The script downloads the sheet and calculates the average temperature over the most recent 10 minute interval. If the temperature is above -65 ºC and it has been more than 30 minutes since the last alarm, the script emails an alarm to every email address on a second Google sheet. This allows alarm recipients to be easily edited by anyone in the lab. The script will also send out a separate alarm email if no new data has been sent to the Google sheet in the past 30 minutes, indicating a sensor failure or power outage. I run the script every 2 minutes with cron using the following crontab:
 
 ```bash
-*/2 * * * * python /home/cedar/git/shiny_freezer/python/freezer_alarm.py >> ~/.cron_log.txt 2>&1
+*/2 * * * * python3 /home/cedar/git/Raspberry_Pi_freezer_sensor_blog_post/python/freezer_alarm.py >> ~/.cron_log.txt 2>&1
 ```
 
 An optional third script, `trim_google_sheets.py`, keeps the Google sheet at a manageable length for the R Shiny app described below. If the sheet is not trimmed, it continues to grow in size as the sensor runs, eventually slowing down the app. I made an optional workaround solution that uploads the data to three Google sheets, one with all the data, one with the past 30 days, and one with the past 7 days. The Shiny app only reads the data from the past 7 day sheet, keeping things relatively fast. `trim_google_sheets.py` trims the sheets so that they are the proper length. The sheet urls are read in by both `read_freezer_thermocouple.py` and `trim_google_sheets.py` from the `url` directory in the following tab-separated format, where the strings of characters are each sheet’s unique id (found in the sheet’s url between the last two slashes):
@@ -161,7 +156,7 @@ name	freezer_1
 I run `trim_google_sheets.py` once a day with cron using the following crontab line:
 
 ```bash
-0 23 * * * cd /home/pi/Documents/pi_sensor/python/ && python3 /home/pi/git/pi_sensor/python/trim_google_sheets.py > ~/cron_log.txt
+0 23 * * * python3 /home/pi/git/Raspberry_Pi_freezer_sensor_blog_post/python/trim_google_sheets.py > ~/.cron_log.txt 2>&1
 ```
 
 ### Hacky display fix
@@ -177,7 +172,7 @@ I like to check in on the freezer, so I made a simply <a href ="https://shiny.rs
 <div class="container is-max-desktop">
     <div class="columns">
         <div class="column is-12">
-            <img src="/img/blog/2022-12-06_shiny_interface.jpg">
+            <iframe height="500" width="100%" frameborder="no" src="https://viz.datascience.arizona.edu/freezer/"> </iframe>
         </div>
     </div>
 </div>
