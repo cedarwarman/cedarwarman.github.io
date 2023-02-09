@@ -236,6 +236,14 @@ permalink: /cv/
         <div class="column is-9">
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman</strong> and R. Palanivelu. <a href="https://www.cedarwarman.com/img/posters/2023-02-14_NAPPN_poster.pdf">A phenotyping system quantifies pollen populations during heat stress using high-throughput microscopy and computer vision</a>. North American Plant Phenotyping Network Annual Meeting, St. Louis, MO, USA. February 2023.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2023
+                </div>
+            </div>
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
                 <strong>C. Warman,</strong> S. McKinley, and R. Palanivelu. <a href="https://www.cedarwarman.com/img/posters/2022-09-06_NSF_PGRP_poster.pdf">Defining the genetic basis of reproductive heat tolerance in tomato through high-throughput pollen phenotyping, genome-wide association, and predictive modeling</a>. National Science Foundation Plant Genome Research Program Annual Meeting, Washington, DC, USA. September 2022.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
