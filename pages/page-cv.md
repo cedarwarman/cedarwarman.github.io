@@ -165,7 +165,15 @@ permalink: /cv/
         <div class="column is-9">
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>C. Warman,</strong> Ravishankar Palanivelu. Defining the genetic basis of reproductive heat tolerance in tomato with high-throughput pollen phenotyping. University of Georgia, Athens, GA, USA. February 2022.
+                <strong>C. Warman,</strong> R. Palanivelu. High-throughput phenotyping uncovers differential tomato pollen growth patterns during heat stress. ASPB Plant Biology, Savannah, GA, USA. August 2023.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
+                2023
+                </div>
+            </div>
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman,</strong> R. Palanivelu. Defining the genetic basis of reproductive heat tolerance in tomato with high-throughput pollen phenotyping. University of Georgia, Athens, GA, USA. February 2022.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2022
@@ -236,10 +244,17 @@ permalink: /cv/
         <div class="column is-9">
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>C. Warman</strong> and R. Palanivelu. <a href="https://www.cedarwarman.com/img/posters/2023-02-14_NAPPN_poster.pdf">A phenotyping system quantifies pollen populations during heat stress using high-throughput microscopy and computer vision</a>. North American Plant Phenotyping Network Annual Meeting, St. Louis, MO, USA. February 2023.
+                <strong>C. Warman</strong> and R. Palanivelu. <a href="https://www.cedarwarman.com/img/posters/2023-08-05_Plant_Bio_Savannah_poster.pdf">A phenotyping system quantifies pollen populations during heat stress using high-throughput microscopy and computer vision</a>. ASPB Plant Biology, Savannah, GA, USA. August 2023.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2023
+                </div>
+            </div>
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman</strong> and R. Palanivelu. <a href="https://www.cedarwarman.com/img/posters/2023-02-14_NAPPN_poster.pdf">A phenotyping system quantifies pollen populations during heat stress using high-throughput microscopy and computer vision</a>. North American Plant Phenotyping Network Annual Meeting, St. Louis, MO, USA. February 2023.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
                 </div>
             </div>
         	<div class="columns is-mobile is-centered mb-0">
