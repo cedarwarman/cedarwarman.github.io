@@ -165,10 +165,17 @@ permalink: /cv/
         <div class="column is-9">
         	<div class="columns is-mobile is-centered mb-0">
                 <div class="column is-10 has-text-left pl-0 pr-0">
-                <strong>C. Warman,</strong> R. Palanivelu. High-throughput phenotyping uncovers differential tomato pollen growth patterns during heat stress. ASPB Plant Biology, Savannah, GA, USA. August 2023.
+                <strong>C. Warman,</strong> R. Palanivelu. High-throughput phenotyping uncovers differential tomato pollen growth patterns during heat stress. National Science Foundation Plant Genome Research Program Annual Meeting, Washington, DC, USA. September 2023.
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
                 2023
+                </div>
+            </div>
+        	<div class="columns is-mobile is-centered mb-0">
+                <div class="column is-10 has-text-left pl-0 pr-0">
+                <strong>C. Warman,</strong> R. Palanivelu. High-throughput phenotyping uncovers differential tomato pollen growth patterns during heat stress. ASPB Plant Biology, Savannah, GA, USA. August 2023.
+                </div>
+                <div class="column is-2 has-text-right pl-0 pr-0">
                 </div>
             </div>
         	<div class="columns is-mobile is-centered mb-0">
