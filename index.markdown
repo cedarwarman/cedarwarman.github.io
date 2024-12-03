@@ -35,7 +35,7 @@ show_sidebar: true
 <div class="container is-max-desktop">
     <hr>
     <br>
-    <img src="/img/cactus_selfie.jpg" alt="Selfie with saguaro cactus">I am an NSF postdoctoral fellow at the University of Arizona where I study plant sexual reproduction in the lab of Dr. Ravishankar Palanivelu. Some of my interests include high-throughput phenotyping, computational biology, and data science. I work to combine computational methods with basic plant biology to answer fundamental questions about how plant reproduction is affected by environmental stress.
+    <img src="/img/cactus_selfie.jpg" alt="Selfie with saguaro cactus">I am a computational biologist working at the intersection of plant science and big data. Some of my interests include high-throughput phenotyping, genomics in the cloud, and data science. I work to combine computational methods with basic plant biology to answer fundamental questions about how plants grow and multiply in challenging environments.
 </div>
 -->
 
@@ -46,7 +46,7 @@ show_sidebar: true
     		<img src="/img/cactus_selfie.jpg" alt="Selfie with saguaro cactus">
 		</div>
 		<div class="column is-8">
-			I am an NSF postdoctoral fellow at the University of Arizona where I study plant sexual reproduction in the lab of Dr. Ravishankar Palanivelu. Some of my interests include high-throughput phenotyping, computational biology, and data science. I work to combine computational methods with basic plant biology to answer fundamental questions about how plant reproduction is affected by envronmental stress.
+			I am a computational biologist working at the intersection of plant science and big data. Some of my interests include high-throughput phenotyping, genomics in the cloud, and data science. I work to combine computational methods with basic plant biology to answer fundamental questions about how plants grow and multiply in challenging environments.
 		</div>
 	</div>
 </div>
