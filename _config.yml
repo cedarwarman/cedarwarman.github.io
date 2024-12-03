@@ -28,7 +28,7 @@ title_image: https://www.cedarwarman.com/img/pollen_in_oil.jpg
 #github_username:  jekyll
 #footer_menu: footer_file
 
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
 
