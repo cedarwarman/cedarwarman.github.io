@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: page
-hero_image: /img/hero/clay_cat.jpg
+hero_image: /img/hero/clay_cat.jpeg
 permalink: /ceramics/
 ---
 
@@ -15,16 +15,6 @@ permalink: /ceramics/
     <p class="title is-2">Ceramics</p>
 </div>
 
-<div class="container is-max-desktop">
-    <hr>
-	<div class="columns">
-		<div class="column is-8">
-			<p class="title is-3 mt-4 mb-0">Functional pottery</p>
-		</div>
-		<div class="column is-4">
-		</div>
-	</div>
-</div>
 <div class="container is-max-desktop">
 	<div class="columns">
 		<div class="column is-4">
