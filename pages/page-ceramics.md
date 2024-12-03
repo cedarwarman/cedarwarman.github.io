@@ -42,3 +42,13 @@ permalink: /ceramics/
 		</div>
 	</div>
 </div>
+<div class="container is-max-desktop">
+	<div class="columns">
+		<div class="column is-6">
+			<img src="/img/ceramics/two_teapots.jpeg" alt="Two fired but unglazed teapots on a wooden square.">
+		</div>
+		<div class="column is-6">
+			<img src="/img/ceramics/bud_vase.jpeg" alt="A simple bud vase with a sunken lip. Glazed a speckled white with dripping blue dots.">
+		</div>
+	</div>
+</div>
