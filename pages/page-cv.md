@@ -16,12 +16,11 @@ permalink: /cv/
 	<div class="columns">
 		<div class="column has-text-left">
 			<p class="title is-2 mb-5">Cedar Warman</p>
-			<p class="subtitle is-4 mb-0"><i>Postdoctoral Fellow</i></p>
-			<p class="my-2">School of Plant Sciences<br>
-			University of Arizona<br>
-			Tucson, AZ, USA</p>
+			<p class="subtitle is-4 mb-0"><i>Computational Biologist</i></p>
+			<p class="my-2">Ohalo Genetics<br>
+			Portland, OR, USA</p>
 			<p class="my-2">cedardalewarman {at} gmail {dot} com</p>
-			<a href="https://twitter.com/CedarWarman"><img class="inline-block icon" src="/img/icons/twitter_icon.svg"></a><a href= "https://twitter.com/CedarWarman"> Twitter</a> / <a href="https://github.com/cedarwarman"><img class="inline-block icon" src="/img/icons/github_icon.svg"></a><a href= "https://github.com/cedarwarman"> Github</a> / <a href="https://orcid.org/0000-0002-6760-1869"><img class="inline-block icon" src="/img/icons/orcid_icon.svg"></a><a href= "https://orcid.org/0000-0002-6760-1869"> ORCID</a> / <a href="https://scholar.google.com/citations?user=BSCuLzIAAAAJ&hl=en"><img class="inline-block icon" src="/img/icons/gscholar_icon.svg"></a><a href= "https://scholar.google.com/citations?user=BSCuLzIAAAAJ&hl=en"> Google Scholar</a> / <a href="https://www.linkedin.com/in/cedarwarman/"><img class="inline-block icon" src="/img/icons/lin_icon.svg"></a><a href= "https://www.linkedin.com/in/cedarwarman/"> Linkedin</a>
+			<a href="https://bsky.app/profile/cedarwarman.bsky.social"><img class="inline-block icon" src="/img/icons/bluesky_icon.svg"></a><a href= "https://bsky.app/profile/cedarwarman.bsky.social"> Bluesky</a> / <a href="https://github.com/cedarwarman"><img class="inline-block icon" src="/img/icons/github_icon.svg"></a><a href= "https://github.com/cedarwarman"> Github</a> / <a href="https://orcid.org/0000-0002-6760-1869"><img class="inline-block icon" src="/img/icons/orcid_icon.svg"></a><a href= "https://orcid.org/0000-0002-6760-1869"> ORCID</a> / <a href="https://scholar.google.com/citations?user=BSCuLzIAAAAJ&hl=en"><img class="inline-block icon" src="/img/icons/gscholar_icon.svg"></a><a href= "https://scholar.google.com/citations?user=BSCuLzIAAAAJ&hl=en"> Google Scholar</a> / <a href="https://www.linkedin.com/in/cedarwarman/"><img class="inline-block icon" src="/img/icons/lin_icon.svg"></a><a href= "https://www.linkedin.com/in/cedarwarman/"> Linkedin</a>
 		</div>
 	</div>
 	<hr>
@@ -66,10 +65,18 @@ permalink: /cv/
 		<div class="column is-9">
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left pl-0 pr-1">
+				<strong>Computational Biologist,</strong><i> Ohalo Genetics,</i> Portland, OR, USA
+				</div>
+				<div class="column is-3 has-text-right pl-1 pr-0">
+				2024 – present	
+				</div>
+			</div>
+			<div class="columns is-mobile is-centered mb-0">
+				<div class="column is-9 has-text-left pl-0 pr-1">
 				<strong>Postdoctoral fellow,</strong><i> University of Arizona,</i> Tucson, AZ, USA
 				</div>
 				<div class="column is-3 has-text-right pl-1 pr-0">
-				2020 – present	
+				2020 – 2024
 				</div>
 			</div>
 			<div class="columns is-mobile is-centered mb-0">
@@ -411,7 +418,7 @@ permalink: /cv/
                 <strong>Vice president,</strong> <i>Dunbar/Spring Neighborhood Association,</i> Tucson, AZ, USA
                 </div>
                 <div class="column is-2 has-text-right pl-0 pr-0">
-                2021 – present
+                2021 – 2023
                 </div>
             </div>
             <div class="columns is-mobile is-centered mb-0">
