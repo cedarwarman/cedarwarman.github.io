@@ -12,7 +12,7 @@ permalink: /research/
 -->
 
 <div class="container is-max-desktop">
-    <p class="title is-2">Research</p>
+    <p class="title is-2">Academic research</p>
 </div>
 
 <div class="container is-max-desktop">
@@ -47,7 +47,7 @@ permalink: /research/
 <div class="container is-max-desktop">
 	<div class="columns is-flex-direction-row-reverse">
 		<div class="column is-8">
-			Crops around the world are constantly subjected to environmental stresses that reduce their ability to produce food. Reproductive processes in plants are particularly sensitive to periods of high heat. In tomato, heat stress during pollen tube growth leads to fewer fruits and lower yield. I am currently studying <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109832">the genetic basis of heat tolerance during tomato reproduction</a> with Dr. Ravishankar Palanivelu at the University of Arizona. For this project, I have collected a diverse panel of tomato varieties that show a wide range of responses to heat stress. I will observe pollen grown from these varieties across a range of temperatures using automated microscopy and computer vision. Using data from these observations, I will search for associations between variations in pollen growth and variations in the genome of each variety. These associations may highlight regions of the tomato genome that are important for heat stress responses and which can ultimately be used to breed better tomatoes.
+			Crops around the world are constantly subjected to environmental stresses that reduce their ability to produce food. Reproductive processes in plants are particularly sensitive to periods of high heat. In tomato, heat stress during pollen tube growth leads to fewer fruits and lower yield. During my postdoc I studied <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109832">the genetic basis of heat tolerance during tomato reproduction</a> with Dr. Ravishankar Palanivelu at the University of Arizona. For this project, I collected a diverse panel of tomato varieties that showed a wide range of responses to heat stress. I observed pollen grown from these varieties across a range of temperatures using automated microscopy and computer vision. Using data from these observations, I found associations between variations in pollen growth and variations in the genome of each variety. These associations may highlight regions of the tomato genome that are important for heat stress responses and which can ultimately be used to breed better tomatoes.
 		</div>
 		<div class="column is-4">
 			<img src="/img/thermotolerance_fig.jpg" alt="Diagram of tomato thermotolerance experiment">
@@ -76,7 +76,7 @@ permalink: /research/
 <div class="container is-max-desktop">
 	<div class="columns is-flex-direction-row-reverse">
 		<div class="column is-8">
-			I am currently working on <a href= "https://doi.org/10.1007/s00497-021-00407-2">new phenotyping methods</a> and new ways to understand the data that they produce as part of my study of tomato responses to heat stress. This project will produce large amounts of phenotypic and genomic data. In addition to creating a new high-throughput pollen phenotyping system, I am studying methods to efficiently analyze these data. These methods include statistical techniques like genome-wide association and genomic prediction, the implementation of deep learning models on high-performance computing clusters with containerized code, and the development of Shiny apps to visualize and share data with my collaborators.
+			I have worked on <a href= "https://doi.org/10.1007/s00497-021-00407-2">new phenotyping methods</a> and new ways to understand the data that they produce as part of my studies of tomato responses to heat stress. This project produced large amounts of phenotypic and genomic data. In addition to creating a new high-throughput pollen phenotyping system, I studied methods to efficiently analyze these data. These methods included statistical techniques like genome-wide association and genomic prediction, the implementation of deep learning models on high-performance computing clusters with containerized code, and the development of Shiny apps to visualize and share data with my collaborators.
 		</div>
 		<div class="column is-4">
 			<img src="/img/earvision.jpg" alt="Maize ear scanner">
