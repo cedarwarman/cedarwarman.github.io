@@ -10,5 +10,7 @@
 #   link: /sensors/
 - name: Blog
   link: /blog/
+- name: Ceramics
+  link: /ceramics/
 - name: Contact
   link: /contact/

@@ -65,7 +65,7 @@ permalink: /cv/
 		<div class="column is-9">
 			<div class="columns is-mobile is-centered mb-0">
 				<div class="column is-9 has-text-left pl-0 pr-1">
-				<strong>Computational Biologist,</strong><i> Ohalo Genetics,</i> Portland, OR, USA
+				<strong>Computational biologist,</strong><i> Ohalo Genetics,</i> Portland, OR, USA
 				</div>
 				<div class="column is-3 has-text-right pl-1 pr-0">
 				2024 – present	
