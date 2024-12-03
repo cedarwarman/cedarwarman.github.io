@@ -35,3 +35,10 @@ permalink: /ceramics/
 		</div>
 	</div>
 </div>
+<div class="container is-max-desktop">
+	<div class="columns">
+		<div class="column is-12">
+			<img src="/img/ceramics/sea_tea.jpeg" alt="Two teacups and a teapot. The glaze swirls like the sea.">
+		</div>
+	</div>
+</div>
